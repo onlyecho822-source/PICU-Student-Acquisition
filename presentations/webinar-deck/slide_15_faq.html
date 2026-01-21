@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #2A1A38;
+            color: #F8F5F2;
+            font-family: 'Lato', sans-serif;
+            display: flex;
+            flex-direction: column;
+            padding: 60px 100px 30px; /* keep top 60, reduce bottom to save height */
+            position: relative;
+            overflow: hidden;
+        }
+        .header-section {
+            text-align: center;
+            margin-bottom: 30px; /* reduced from 60 to lift grid up */
+        }
+        .section-label {
+            font-family: 'Lato', sans-serif;
+            font-size: 16px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: #D4AF37;
+            margin-bottom: 12px;
+            font-weight: 700;
+            display: inline-block;
+            border-bottom: 2px solid #D4AF37;
+            padding-bottom: 5px;
+        }
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 48px;
+            line-height: 1.2;
+            color: #F8F5F2;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .faq-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px; /* reduced gap to save vertical space */
+            max-width: 1100px;
+            margin: 0 auto;
+            width: 100%;
+        }
+        .faq-item {
+            position: relative;
+            padding-left: 20px; /* slightly smaller left padding */
+            border-left: 2px solid rgba(212, 175, 55, 0.3);
+        }
+        .question {
+            font-family: 'Playfair Display', serif;
+            font-size: 28px;
+            color: #D4AF37;
+            margin-bottom: 8px; /* tightened spacing */
+            font-weight: 700;
+            font-style: italic;
+        }
+        .answer {
+            font-size: 20px;
+            line-height: 1.55; /* slightly tighter line-height to save space */
+            color: rgba(248, 245, 242, 0.9);
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header-section">
+            <div class="section-label">Addressing Your Concerns</div>
+            <h2>We Understand the Hesitation — Here Are the Facts</h2>
+        </div>
+
+        <div class="faq-grid">
+            <div class="faq-item">
+                <div class="question">"Is now the right time?"</div>
+                <div class="answer">There will never be a perfect time. Ministry will always be demanding. But your calling to grow, to learn, and to become more does not go away.</div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">"Can I balance studies with ministry?"</div>
+                <div class="answer">PICU was built specifically for busy ministry leaders like you. Our self-paced format allows you to study early mornings, late nights, or whenever fits your schedule.</div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">"Is the investment worth it?"</div>
+                <div class="answer">Graduates consistently report opened doors, elevated credibility, and deeper ministry impact. It is an investment in your legacy and your future effectiveness.</div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">"What about payment?"</div>
+                <div class="answer">We offer flexible payment plans to fit your budget. Our goal is to help you graduate debt-free, without the financial burden of traditional programs.</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

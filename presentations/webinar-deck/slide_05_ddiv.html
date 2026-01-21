@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #FFFFFF;
+            color: #1A1A1A;
+            font-family: 'Lato', sans-serif;
+            display: flex;
+            position: relative;
+            overflow: hidden;
+        }
+        .image-column {
+            width: 40%;
+            height: 680px; /* reduced to be under 720px */
+            background-color: #F8F5F2;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+        .image-column img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .content-column {
+            width: 60%;
+            padding: 80px 40px 20px; /* keep top padding, reduce sides and bottom */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .program-type {
+            font-family: 'Lato', sans-serif;
+            font-size: 16px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: #D4AF37;
+            margin-bottom: 15px;
+            font-weight: 700;
+        }
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 56px;
+            line-height: 1.1;
+            color: #2A1A38;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-family: 'Playfair Display', serif;
+            font-size: 32px;
+            color: #555;
+            margin-bottom: 20px; /* reduced spacing */
+            font-style: italic;
+        }
+        ul {
+            list-style: none;
+            margin-bottom: 10px; /* reduced to pull tuition box up */
+        }
+        li {
+            font-size: 22px;
+            line-height: 1.6;
+            margin-bottom: 12px; /* tightened spacing */
+            padding-left: 35px;
+            position: relative;
+            color: #444;
+        }
+        li::before {
+            content: "\f00c"; /* FontAwesome check */
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            color: #D4AF37;
+            font-size: 20px;
+            position: absolute;
+            left: 0;
+            top: 4px;
+        }
+        .tuition-box {
+            background-color: #2A1A38;
+            color: #fff;
+            padding: 20px 30px; /* slightly reduced */
+            display: inline-block;
+            align-self: flex-start;
+        }
+        .tuition-label {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            opacity: 0.8;
+            margin-bottom: 5px;
+        }
+        .tuition-price {
+            font-family: 'Playfair Display', serif;
+            font-size: 42px;
+            font-weight: 700;
+            color: #D4AF37;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="image-column">
+            <img src="/home/ubuntu/upload/search_images/NxtbR7sTXmWN.jpg" alt="Doctoral Regalia">
+        </div>
+        <div class="content-column">
+            <div class="program-type">Doctoral Program</div>
+            <h2>Doctor of Divinity</h2>
+            <div class="subtitle">in Chaplaincy and Pastoral Care</div>
+
+            <ul>
+                <li>Ideal for pastors, hospital chaplains, and pastoral counselors.</li>
+                <li>Focuses on advanced pastoral theology and crisis intervention.</li>
+                <li>Prepares you for leadership in healthcare, military, and corporate chaplaincy.</li>
+                <li>Enhances your ability to minister in vulnerable moments.</li>
+            </ul>
+
+            <div class="tuition-box">
+                <div class="tuition-label">Total Tuition</div>
+                <div class="tuition-price">$6,400</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #2A1A38;
+            color: #F8F5F2;
+            font-family: 'Lato', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 60px 100px;
+            position: relative;
+            overflow: hidden;
+        }
+        .section-label {
+            font-family: 'Lato', sans-serif;
+            font-size: 16px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: #D4AF37;
+            margin-bottom: 20px;
+            font-weight: 700;
+            border-bottom: 2px solid #D4AF37;
+            padding-bottom: 5px;
+        }
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 48px;
+            line-height: 1.2;
+            color: #F8F5F2;
+            text-align: center;
+            margin-bottom: 60px;
+            max-width: 900px;
+        }
+        .equation-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 30px;
+            margin-bottom: 60px;
+            width: 100%;
+        }
+        .degree-box {
+            border: 2px solid #D4AF37;
+            padding: 30px 40px;
+            text-align: center;
+            min-width: 250px;
+        }
+        .degree-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 28px;
+            color: #F8F5F2;
+            margin-bottom: 5px;
+        }
+        .degree-sub {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #D4AF37;
+        }
+        .operator {
+            font-family: 'Playfair Display', serif;
+            font-size: 48px;
+            color: #D4AF37;
+        }
+        .price-highlight {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        .price-label {
+            font-size: 18px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+            opacity: 0.8;
+        }
+        .price-value {
+            font-family: 'Playfair Display', serif;
+            font-size: 72px;
+            color: #D4AF37;
+            font-weight: 700;
+        }
+        .benefits-list {
+            display: flex;
+            gap: 40px;
+            text-align: center;
+        }
+        .benefit-item {
+            flex: 1;
+            font-size: 18px;
+            line-height: 1.5;
+            color: rgba(248, 245, 242, 0.9);
+            max-width: 300px;
+        }
+        .benefit-icon {
+            color: #D4AF37;
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="section-label">Dual Degree Programs</div>
+        <h2>Earn Both a Master's and a Doctorate for Maximum Value</h2>
+
+        <div class="equation-container">
+            <div class="degree-box">
+                <div class="degree-title">Master's</div>
+                <div class="degree-sub">Any Discipline</div>
+            </div>
+            <div class="operator">+</div>
+            <div class="degree-box">
+                <div class="degree-title">PhD</div>
+                <div class="degree-sub">Specialized</div>
+            </div>
+            <div class="operator">=</div>
+            <div class="price-value">$7,500</div>
+        </div>
+
+        <div class="benefits-list">
+            <div class="benefit-item">
+                <div class="benefit-icon"><i class="fas fa-layer-group"></i></div>
+                Combine any Master's degree with a PhD for comprehensive training.
+            </div>
+            <div class="benefit-item">
+                <div class="benefit-icon"><i class="fas fa-user-graduate"></i></div>
+                Ideal for those without a prior graduate degree seeking broader expertise.
+            </div>
+            <div class="benefit-item">
+                <div class="benefit-icon"><i class="fas fa-stream"></i></div>
+                Complete both degrees in a streamlined, integrated curriculum.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

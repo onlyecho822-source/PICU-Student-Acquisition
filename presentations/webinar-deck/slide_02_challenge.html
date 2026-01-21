@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #F8F5F2;
+            color: #1A1A1A;
+            font-family: 'Lato', sans-serif;
+            display: flex;
+            position: relative;
+            overflow: hidden;
+        }
+        .left-content {
+            width: 60%;
+            /* keep top padding for title consistency, reduce bottom padding */
+            padding: 80px 60px 10px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .right-image {
+            width: 40%;
+            /* keep image column under 720px */
+            height: 680px;
+            position: relative;
+        }
+        .right-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .section-label {
+            font-family: 'Lato', sans-serif;
+            font-size: 16px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: #D4AF37;
+            margin-bottom: 12px;
+            font-weight: 700;
+        }
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 48px;
+            line-height: 1.2;
+            color: #2A1A38;
+            margin-bottom: 10px; /* reduced */
+            max-width: 100%; /* allow wider title to reduce wrapping */
+        }
+        ul {
+            list-style: none;
+            /* two-column layout to reduce vertical height */
+            column-count: 2;
+            column-gap: 30px;
+            margin-top: 12px;
+        }
+        li {
+            font-size: 22px;
+            line-height: 1.4;
+            margin-bottom: 8px;
+            padding-left: 28px;
+            position: relative;
+            color: #444;
+            break-inside: avoid;
+        }
+        li::before {
+            content: "•";
+            color: #D4AF37;
+            font-size: 28px;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+        li strong {
+            color: #2A1A38;
+            font-weight: 700;
+        }
+        .stat-highlight {
+            font-family: 'Playfair Display', serif;
+            font-size: 64px;
+            color: #D4AF37;
+            font-weight: 700;
+            margin-right: 15px;
+        }
+        .stat-container {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+            background: #fff;
+            padding: 8px;
+            border-left: 4px solid #2A1A38;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+        }
+        .stat-text {
+            font-size: 20px;
+            line-height: 1.4;
+            color: #2A1A38;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="left-content">
+            <div class="section-label">The Challenge</div>
+            <h2>Most Ministry Leaders Want a Doctorate But Face Major Barriers</h2>
+            
+            <div class="stat-container">
+                <span class="stat-highlight">78%</span>
+                <span class="stat-text">of pastors express interest in advanced education, yet fewer than 15% pursue it.</span>
+            </div>
+
+            <ul>
+                <li><strong>High Cost:</strong> Traditional doctoral programs cost $15,000 to $50,000 or more.</li>
+                <li><strong>Rigid Schedules:</strong> Often require relocation or significant time away from ministry.</li>
+                <li><strong>Life Demands:</strong> Family and congregation responsibilities make full-time study impossible.</li>
+                <li><strong>Unclear Path:</strong> Many feel called to grow but see no realistic path forward.</li>
+            </ul>
+        </div>
+        <div class="right-image">
+            <img src="/home/ubuntu/PICU-Student-Acquisition/presentations/images/church-leadership.jpg" alt="Ministry leader reflecting">
+        </div>
+    </div>
+</body>
+</html>

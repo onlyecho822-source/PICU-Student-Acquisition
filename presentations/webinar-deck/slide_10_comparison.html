@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #2A1A38;
+            color: #F8F5F2;
+            font-family: 'Lato', sans-serif;
+            display: flex;
+            flex-direction: column;
+            /* keep top padding for title consistency */
+            padding: 60px 100px 40px; /* reduced bottom padding from 60 -> 40 */
+            position: relative;
+            overflow: hidden;
+        }
+        .header-section {
+            text-align: center;
+            margin-bottom: 20px; /* reduced from 60 -> 20 */
+        }
+        .section-label {
+            font-family: 'Lato', sans-serif;
+            font-size: 16px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: #D4AF37;
+            margin-bottom: 20px;
+            font-weight: 700;
+            display: inline-block;
+            border-bottom: 2px solid #D4AF37;
+            padding-bottom: 5px;
+        }
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 42px;
+            line-height: 1.2;
+            color: #F8F5F2;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .comparison-table {
+            display: grid;
+            grid-template-columns: 1fr 1.5fr 1.5fr;
+            width: 100%;
+            max-width: 1000px;
+            margin: 0 auto;
+            border-top: 2px solid #D4AF37;
+        }
+        .row { display: contents; }
+        .cell {
+            /* reduced vertical padding from 25 -> 12 */
+            padding: 12px 20px;
+            border-bottom: 1px solid rgba(248, 245, 242, 0.1);
+            font-size: 22px;
+            display: flex;
+            align-items: center;
+        }
+        .header-cell {
+            font-family: 'Playfair Display', serif;
+            font-size: 24px;
+            font-weight: 700;
+            color: #D4AF37;
+            padding-top: 12px; /* reduced from 30 -> 12 */
+            padding-bottom: 12px; /* reduced from 30 -> 12 */
+            border-bottom: 1px solid rgba(212, 175, 55, 0.5);
+        }
+        .factor-col { font-weight: 700; color: rgba(248, 245, 242, 0.7); }
+        .picu-col { color: #D4AF37; font-weight: 700; font-size: 24px; }
+        .traditional-col { color: #F8F5F2; opacity: 0.9; }
+        .row:last-child .cell { border-bottom: none; }
+        .row.highlight .cell { background-color: rgba(212, 175, 55, 0.05); }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header-section">
+            <div class="section-label">Competitive Advantage</div>
+            <h2>PICU Delivers Doctoral Education at 60-80% Less Than Competitors</h2>
+        </div>
+
+        <div class="comparison-table">
+            <!-- Header Row -->
+            <div class="row">
+                <div class="cell header-cell">Comparison Factor</div>
+                <div class="cell header-cell">PICU</div>
+                <div class="cell header-cell">Traditional Programs</div>
+            </div>
+
+            <!-- Data Rows -->
+            <div class="row highlight">
+                <div class="cell factor-col">Tuition</div>
+                <div class="cell picu-col">$6,400 - $7,500</div>
+                <div class="cell traditional-col">$15,000 - $50,000+</div>
+            </div>
+
+            <div class="row">
+                <div class="cell factor-col">Format</div>
+                <div class="cell picu-col">100% Online</div>
+                <div class="cell traditional-col">On-campus or Hybrid</div>
+            </div>
+
+            <div class="row">
+                <div class="cell factor-col">Schedule</div>
+                <div class="cell picu-col">Start Anytime</div>
+                <div class="cell traditional-col">Semester-based</div>
+            </div>
+
+            <div class="row">
+                <div class="cell factor-col">Duration</div>
+                <div class="cell picu-col">6 - 36 Months</div>
+                <div class="cell traditional-col">3 - 5 Years</div>
+            </div>
+
+            <div class="row">
+                <div class="cell factor-col">Relocation</div>
+                <div class="cell picu-col">Not Required</div>
+                <div class="cell traditional-col">Often Required</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

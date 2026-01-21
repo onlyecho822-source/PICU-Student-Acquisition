@@ -1,0 +1,216 @@
+{
+  "project_info": {
+    "title": "Your Doctorate Awaits",
+    "created": 1768968711.0567675,
+    "last_updated": 1768969355.7454913,
+    "total_slides": 17
+  },
+  "slides": [
+    {
+      "id": "slide_01_title",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_02_challenge",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "slide_03_solution",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "slide_04_programs_overview",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "slide_05_ddiv",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "slide_06_phd_ministry",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_07_phd_counseling",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_08_phd_entrepreneurship",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_09_dual_degree",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_10_comparison",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "slide_11_testimonial",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "slide_12_how_it_works",
+      "state": "edited",
+      "pageNum": 12
+    },
+    {
+      "id": "slide_13_timeline",
+      "state": "edited",
+      "pageNum": 13
+    },
+    {
+      "id": "slide_14_deliverables",
+      "state": "edited",
+      "pageNum": 14
+    },
+    {
+      "id": "slide_15_faq",
+      "state": "edited",
+      "pageNum": 15
+    },
+    {
+      "id": "slide_16_next_steps",
+      "state": "edited",
+      "pageNum": 16
+    },
+    {
+      "id": "slide_17_closing",
+      "state": "edited",
+      "pageNum": 17
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_01_title",
+      "title": "Your Doctorate Awaits",
+      "summary": "Title slide introducing the webinar and Dr. Lesley Poinsette.",
+      "image_plan": "",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_02_challenge",
+      "title": "The Challenge Facing Ministry Leaders",
+      "summary": "Highlights the barriers ministry leaders face in pursuing doctoral education.",
+      "image_plan": "/home/ubuntu/upload/search_images/8ZCfiNkcfyNZ.jpg - Image 4 shows a man in clerical attire holding a book, representing a ministry leader facing a challenge or aspiration. It fits the theme of ministry leaders and their pursuit of advanced education.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_03_solution",
+      "title": "PICU: Built for Your Life",
+      "summary": "Explains how PICU solves the problems of cost, schedule, and flexibility.",
+      "image_plan": "/home/ubuntu/upload/search_images/8llTIYlGDTd0.jpg; /home/ubuntu/upload/search_images/82RaPqa1lol1.webp - Images 7 and 8 show people (adult and child) using laptops for online learning, which visually supports the concept of 100% online, self-paced, and accessible education that PICU offers.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_04_programs_overview",
+      "title": "Our Doctoral Programs",
+      "summary": "Overview of the four doctoral programs and dual degree options.",
+      "image_plan": "",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_05_ddiv",
+      "title": "Doctor of Divinity",
+      "summary": "Details the D.Div. in Chaplaincy and Pastoral Care program.",
+      "image_plan": "/home/ubuntu/upload/search_images/NxtbR7sTXmWN.jpg - Image 1 shows an illustration of a counseling/pastoral care setting with a cross, which is highly relevant to the Doctor of Divinity in Chaplaincy and Pastoral Care program.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_06_phd_ministry",
+      "title": "PhD in Practical Ministry",
+      "summary": "Details the PhD in Practical Ministry program.",
+      "image_plan": "/home/ubuntu/upload/search_images/HVsll2gTpJT7.jpg - Image 12 shows a group in a meeting/leadership setting, which aligns with the content for the PhD in Practical Ministry, focusing on leadership, church growth, and administration.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_07_phd_counseling",
+      "title": "PhD in Christian Counseling",
+      "summary": "Details the PhD in Christian Counseling program.",
+      "image_plan": "/home/ubuntu/upload/search_images/MNmJj4bWAn1q.jpg - Image 2 shows a couple and a counselor in a session, directly illustrating the Christian Counseling program content about serving individuals, couples, and families.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_08_phd_entrepreneurship",
+      "title": "PhD in Christian Entrepreneurship",
+      "summary": "Details the PhD in Christian Entrepreneurship program.",
+      "image_plan": "/home/ubuntu/upload/search_images/QPbJCtzv4A8D.jpg - Image 15 shows a professional woman working on a laptop, which can represent the integration of business/entrepreneurship and faith, especially in a modern, marketplace context.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_09_dual_degree",
+      "title": "Dual Degree Programs",
+      "summary": "Explains the value of the dual degree option (Master's + PhD).",
+      "image_plan": "",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_10_comparison",
+      "title": "PICU vs. Traditional Programs",
+      "summary": "Comparison table showing PICU's advantages in tuition and flexibility.",
+      "image_plan": "",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_11_testimonial",
+      "title": "Student Success Story",
+      "summary": "Testimonial from Pastor Michael T. about his experience.",
+      "image_plan": "/home/ubuntu/upload/search_images/couZUXjhC74u.jpg - Image 16 shows a professional woman smiling while working on a laptop, conveying success, professionalism, and the ability to study while continuing ministry, fitting the success story theme.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_12_how_it_works",
+      "title": "How It Works",
+      "summary": "Three simple steps to apply, enroll, and start learning.",
+      "image_plan": "",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_13_timeline",
+      "title": "Timeline and Flexibility",
+      "summary": "Visualizes the flexible timeline options from 6 to 36 months.",
+      "image_plan": "",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_14_deliverables",
+      "title": "What You Will Receive",
+      "summary": "Lists the tangible outcomes: diploma, transcripts, title of Doctor.",
+      "image_plan": "/home/ubuntu/upload/search_images/ztuLOTa6iKgu.jpg - Image 3 shows a graduate in a doctoral gown holding a diploma, which perfectly illustrates the achievement and receipt of the doctoral diploma and title.",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_15_faq",
+      "title": "Addressing Your Concerns",
+      "summary": "Answers common questions about timing, balance, and investment.",
+      "image_plan": "",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_16_next_steps",
+      "title": "Your Next Step",
+      "summary": "Call to action with contact info and application link.",
+      "image_plan": "",
+      "slide_template_key": ""
+    },
+    {
+      "id": "slide_17_closing",
+      "title": "Thank You & Q&A",
+      "summary": "Closing slide with contact details and Q&A invitation.",
+      "image_plan": "",
+      "slide_template_key": ""
+    }
+  ]
+}

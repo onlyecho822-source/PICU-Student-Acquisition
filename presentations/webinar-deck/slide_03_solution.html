@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box}
+        .slide-container{
+            width:1280px;
+            min-height:720px; /* keep as required */
+            background:#fff;
+            color:#1A1A1A;
+            font-family:'Lato',sans-serif;
+            display:flex;
+            flex-direction:column;
+            padding:60px 80px; /* keep top padding (title consistency) */
+            position:relative;
+            overflow:hidden;
+        }
+        .header-section{height:160px;margin-bottom:20px;text-align:center}
+        .section-label{font-size:16px;letter-spacing:3px;text-transform:uppercase;color:#D4AF37;margin-bottom:10px;font-weight:700;display:inline-block;border-bottom:2px solid #D4AF37;padding-bottom:5px}
+        h2{font-family:'Playfair Display',serif;font-size:48px;line-height:1.2;color:#2A1A38;max-width:1100px;margin:0 auto}
+
+        /* main content: place benefits and images side-by-side to reduce vertical stacking */
+        .main-row{display:flex;gap:30px;height:320px}
+        .benefits-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;flex:1;height:100%}
+        .benefit-card{text-align:center;padding:12px;display:flex;flex-direction:column;justify-content:center}
+        .icon-container{font-size:48px;color:#D4AF37;margin-bottom:12px}
+        .benefit-title{font-family:'Playfair Display',serif;font-size:24px;color:#2A1A38;margin-bottom:10px;font-weight:700}
+        .benefit-desc{font-size:18px;line-height:1.5;color:#555}
+
+        .image-strip{width:45%;height:100%;display:flex;flex-direction:column;gap:12px}
+        .image-container{flex:1;height:100%;overflow:hidden;border-radius:4px}
+        .image-container img{width:100%;height:100%;object-fit:cover;display:block}
+
+        /* small adjustments for spacing consistency */
+        @media (max-width:1280px){.slide-container{width:100%}}
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header-section">
+            <div class="section-label">The Solution</div>
+            <h2>We Designed Every Aspect of PICU to Work With Your Life, Not Against It</h2>
+        </div>
+
+        <div class="main-row">
+            <div class="benefits-grid">
+                <div class="benefit-card">
+                    <div class="icon-container"><i class="fas fa-laptop-house"></i></div>
+                    <div class="benefit-title">100% Online</div>
+                    <div class="benefit-desc">Eliminates relocation and commuting. Study from anywhere.</div>
+                </div>
+                <div class="benefit-card">
+                    <div class="icon-container"><i class="fas fa-clock"></i></div>
+                    <div class="benefit-title">Self-Paced</div>
+                    <div class="benefit-desc">Fits around your ministry, family, and responsibilities.</div>
+                </div>
+                <div class="benefit-card">
+                    <div class="icon-container"><i class="fas fa-wallet"></i></div>
+                    <div class="benefit-title">Affordable</div>
+                    <div class="benefit-desc">Tuition at a fraction of traditional programs.</div>
+                </div>
+                <div class="benefit-card">
+                    <div class="icon-container"><i class="fas fa-certificate"></i></div>
+                    <div class="benefit-title">Accredited</div>
+                    <div class="benefit-desc">CCACI accredited for recognized credentials.</div>
+                </div>
+            </div>
+
+            <div class="image-strip">
+                <div class="image-container">
+                    <img src="/home/ubuntu/PICU-Student-Acquisition/presentations/images/online-learning.webp" alt="Online Learning">
+                </div>
+                <div class="image-container">
+                    <img src="/home/ubuntu/upload/search_images/8llTIYlGDTd0.jpg" alt="Student with Laptop">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

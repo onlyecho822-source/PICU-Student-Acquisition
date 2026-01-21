@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .slide-container {
+            width: 1280px;
+            min-height: 720px;
+            background-color: #2A1A38;
+            color: #F8F5F2;
+            font-family: 'Lato', sans-serif;
+            display: flex;
+            flex-direction: column;
+            padding: 60px 100px 30px; /* keep top 60px, reduce bottom to save height */
+            position: relative;
+            overflow: hidden;
+        }
+        .header-section {
+            text-align: center;
+            margin-bottom: 30px; /* reduced from 50px */
+        }
+        .section-label {
+            font-family: 'Lato', sans-serif;
+            font-size: 16px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: #D4AF37;
+            margin-bottom: 20px;
+            font-weight: 700;
+            display: inline-block;
+            border-bottom: 2px solid #D4AF37;
+            padding-bottom: 5px;
+        }
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 42px;
+            line-height: 1.2;
+            color: #F8F5F2;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .program-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+            max-width: 1000px;
+            margin: 0 auto;
+            width: 100%;
+        }
+        .program-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            padding: 15px 0; /* reduced from 25px */
+            border-bottom: 1px solid rgba(212, 175, 55, 0.3);
+        }
+        .program-item:last-child {
+            border-bottom: none;
+        }
+        .program-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 28px;
+            color: #F8F5F2;
+            font-weight: 400;
+        }
+        .program-price {
+            font-family: 'Lato', sans-serif;
+            font-size: 28px;
+            color: #D4AF37;
+            font-weight: 700;
+            white-space: nowrap;
+            margin-left: 40px;
+        }
+        .dual-degree {
+            background: rgba(212, 175, 55, 0.1);
+            margin: 0 -20px;
+            padding: 15px 12px; /* reduced from 25px 20px */
+            border-radius: 4px;
+            border-bottom: none;
+            margin-top: 8px; /* reduced from 10px */
+        }
+        .dual-degree .program-title {
+            color: #D4AF37;
+            font-weight: 700;
+        }
+        .note {
+            font-size: 16px;
+            color: rgba(248, 245, 242, 0.6);
+            margin-top: 5px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="header-section">
+            <div class="section-label">Our Programs</div>
+            <h2>Four Specialized Doctoral Programs Starting at $6,400 Total Tuition</h2>
+        </div>
+
+        <div class="program-list">
+            <div class="program-item">
+                <div class="program-title">Doctor of Divinity (D.Div.) in Chaplaincy and Pastoral Care</div>
+                <div class="program-price">$6,400</div>
+            </div>
+            <div class="program-item">
+                <div class="program-title">PhD in Practical Ministry</div>
+                <div class="program-price">$6,400</div>
+            </div>
+            <div class="program-item">
+                <div class="program-title">PhD in Christian Counseling</div>
+                <div class="program-price">$6,400</div>
+            </div>
+            <div class="program-item">
+                <div class="program-title">PhD in Christian Entrepreneurship</div>
+                <div class="program-price">$6,400</div>
+            </div>
+            <div class="program-item dual-degree">
+                <div>
+                    <div class="program-title">Dual Degree Programs (MA + PhD)</div>
+                    <div class="note">Combine any Master's with a PhD for comprehensive training</div>
+                </div>
+                <div class="program-price">$7,500</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
