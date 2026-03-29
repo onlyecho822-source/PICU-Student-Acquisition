@@ -1,6 +1,6 @@
 # Reddit Doctoral Candidate Prospects
 ## Forums: r/pastors, r/PhD, r/theology
-### Timestamp: 11:35 Jan 20, 2026
+### Timestamp: 11:35 2026-03-29
 
 ---
 
