@@ -54,7 +54,7 @@ The ideal candidate holds strong Christian faith and values education as a means
 | Pain Point | Solution |
 |------------|----------|
 | **Time constraints** | 100% online, self-paced |
-| **Cost concerns** | Affordable tuition, payment plans |
+| **Cost concerns** | Affordable investment, payment plans |
 | **Family obligations** | Flexible scheduling |
 | **Work commitments** | Study around work schedule |
 | **Geographic limitations** | No residency requirements |
@@ -88,7 +88,7 @@ Pastor Paul has led a mid-sized church for 12 years. He holds a Bachelor's in Th
 **PICU Fit:**
 - Doctor of Divinity in Chaplaincy and Pastoral Care
 - 100% online fits pastoral schedule
-- $6,400 tuition is affordable
+- $2,500 investment is affordable
 
 **Where to Find:**
 - Pastor conferences
@@ -274,7 +274,7 @@ Isabella is a youth pastor at a growing church in Nigeria. She holds a local Bac
 |----------|-----------|
 | Attending education fairs | Active exploration |
 | Discussing with pastor/mentor | Seeking validation |
-| Asking employer about tuition assistance | Serious consideration |
+| Asking employer about investment assistance | Serious consideration |
 | Comparing with colleagues | Social proof seeking |
 
 ---
@@ -303,5 +303,5 @@ Isabella is a youth pastor at a growing church in Nigeria. She holds a local Bac
 
 ---
 
-*Document maintained by Phoenix Global Nexus Intelligence Division*  
-*Last Updated: January 20, 2026*
+*Document maintained by PICU Acquisition System*  
+*Last Updated: 2026-03-29*
