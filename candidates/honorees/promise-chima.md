@@ -1,22 +1,35 @@
-# Honoree Profile: Promise "Promise" Chima
-**Degree:** Honorary Doctorate of Divinity
-**Class:** Spring 2026
-**Referral Source Code:** S26
+# HONOREE PROFILE: Dr. Promise Chima
+**Degree:** PhD., Christian Ethics & Business Management
+**Location:** Indianapolis / Midwest
+**Network:** African Christian community — Midwest, highly networked
+**Source:** S26 (Spring 2026 Honoree)
 
-## Bio Summary
-Promise has demonstrated exceptional commitment to Kingdom work, serving their community with distinction and grace. Their platform has impacted countless lives, embodying the core values of PICU.
+---
 
-## Network Map
-- Active in local ministry networks
-- Connected to community outreach leaders
-- Strong presence among faith-based entrepreneurs
+## BIO
+African Christian community leader in Indianapolis/Midwest area. Nigerian/African name indicates strong ties to Midwest African diaspora Christian community — a large, highly networked, and underserved population for PICU.
 
-## Top 3 Referral Candidates
-1. [Network Connection 1 - Ministry Partner]
-2. [Network Connection 2 - Co-laborer in Christ]
-3. [Network Connection 3 - Mentee/Protégé]
+---
 
-## Contact Information
-- **Facebook:** fb.com/promisechima
-- **Instagram:** @promisechima
-- **Email:** promise.chima@example.com
+## TOP REFERRAL TARGETS
+- African Christian fellowship networks in Midwest
+- Nigerian ministry community
+- African women in faith groups
+
+---
+
+## CONTACT
+Through PICU ceremony connections
+
+---
+
+## REFERRAL PRIORITY
+HIGH — African Christian community = major untapped pipeline
+
+---
+
+## REFERRAL ASK STATUS
+See: `outreach/drafts/referral-asks/promise-chima-referral-ask.md`
+
+---
+*Generated: 2026-03-29T21:24:19Z · Claude · Strategist Node*
