@@ -1,273 +1,157 @@
-# Social Media Lead Generation Channels
-## Platform-Specific Strategies for Doctoral Candidate Acquisition
+# Social Media Channels — Honorary Recognition
+## PICU Honorary Doctorate of Divinity
+**Updated:** 2026-03-29
+**Product:** Honorary Doctorate of Divinity — $2,500 total investment ($500 deposit)
 
 ---
 
-## LinkedIn Strategy
-
-LinkedIn represents the highest-value platform for reaching professional doctoral candidates due to its career-focused user base.
-
-### Target Groups
-
-| Group Name | Focus Area | Engagement Priority |
-|------------|------------|---------------------|
-| Christian Leadership Network | Ministry leadership | High |
-| Ministry Leaders & Pastors | Church leadership | High |
-| Christian Counselors Association | Counseling professionals | High |
-| Chaplaincy Professionals | All chaplaincy sectors | High |
-| Faith-Based Entrepreneurs | Business + faith | Medium |
-| Higher Education Seekers | Degree seekers | Medium |
-| Online Learning Professionals | Distance education | Medium |
-
-### Search Keywords for Prospecting
-
-The following keywords help identify individuals actively seeking doctoral education:
-
-- "seeking doctoral degree"
-- "looking for PhD program"
-- "ministry leadership development"
-- "Christian counseling certification"
-- "chaplaincy training"
-- "online doctorate"
-- "Doctor of Ministry"
-- "theology PhD"
-
-### LinkedIn Action Plan
-
-**Week 1-2: Foundation**
-1. Create/optimize PICU official LinkedIn page
-2. Identify and join 10+ relevant groups
-3. Connect with 50+ ministry professionals
-
-**Week 3-4: Engagement**
-1. Share 3-5 educational posts per week
-2. Comment on degree-seeking discussions
-3. Direct message engaged prospects
-
-**Ongoing Activities**
-1. Post success stories and testimonials
-2. Share program information
-3. Host LinkedIn Live Q&A sessions
-4. Publish articles on doctoral education value
+## FRAMING CORRECTION NOTE
+The previous version of this file was built for earned doctoral enrollment acquisition — targeting degree seekers on Reddit, LinkedIn, and TikTok with tuition messaging. That product brief is no longer active. This file has been rewritten for the honorary recognition product. The strategy is fundamentally different: we are not advertising a program. We are finding people who did the work and recognizing them publicly.
 
 ---
 
-## Facebook Strategy
+## Core Principle
 
-Facebook hosts numerous active communities of degree seekers and ministry professionals.
+Every post, every DM, every comment operates from one line:
 
-### Target Groups
+> **"You did the work. We see it."**
 
-| Group Name | Members (Est.) | Focus |
-|------------|----------------|-------|
-| Theology and Spiritual Experience in Religious Leadership | 10,000+ | Theological discussion |
-| Post Graduate Theology Students | 5,000+ | Graduate students |
-| Christian Counselors Network | 15,000+ | Counseling professionals |
-| Ministry Leaders Fellowship | 20,000+ | Church leaders |
-| Online Degree Seekers | 8,000+ | Distance learners |
-| Christian Entrepreneurs Network | 12,000+ | Faith + business |
-| Chaplaincy Support Groups | 5,000+ | Chaplains |
-
-### Facebook Action Plan
-
-**Content Strategy**
-1. Create PICU Facebook page with complete information
-2. Join all target groups (admin approval required)
-3. Share valuable content before promoting
-
-**Engagement Tactics**
-1. Answer questions about doctoral education
-2. Share testimonials from current students
-3. Post about scholarship opportunities
-4. Host Facebook Live information sessions
-
-**Advertising Strategy**
-1. Create lookalike audiences from website visitors
-2. Target by interests: Theology, Ministry, Christian Education
-3. Retarget website visitors with program information
-4. Use lead generation ads for direct capture
+We do not open with price. We do not open with the product. We open with recognition.
 
 ---
 
-## Reddit Strategy
+## Channel Strategy
 
-Reddit communities provide direct access to authentic degree-seeking discussions. Approach requires authenticity and value-first engagement.
+### Facebook (Primary Channel)
 
-### Target Subreddits
+**Purpose:** Community discovery and warm outreach to ministry leaders, nurses, teachers, and community servants.
 
-| Subreddit | Subscribers | Relevance |
-|-----------|-------------|-----------|
-| r/PhD | 200,000+ | General doctoral discussion |
-| r/theology | 50,000+ | Theology students |
-| r/GradSchool | 300,000+ | Graduate education |
-| r/OnlineEducation | 30,000+ | Distance learning |
-| r/Christianity | 400,000+ | Christian community |
-| r/AcademicBiblical | 100,000+ | Biblical studies |
+**Content Mix:**
+- 40% — Honoree spotlights (real people, real stories, real recognition)
+- 30% — Ceremony documentation (Lady J anchor content, future ceremonies)
+- 20% — Community engagement (questions, polls, recognition prompts)
+- 10% — Direct outreach support (sharing candidate posts, commenting with recognition)
 
-### Reddit Engagement Rules
+**Key Groups for Organic Discovery:**
 
-**DO:**
-- Provide genuine, helpful answers
-- Share personal insights about doctoral education
-- Participate in discussions authentically
-- Build reputation before any promotion
+| Group | Focus | Candidate Type |
+|-------|-------|----------------|
+| Black Church Leaders Network | Ministry leaders | Pastor, minister, deacon |
+| Women in Ministry | Female faith leaders | Evangelist, counselor, teacher |
+| Nurses Who Serve | Healthcare servants | RN, LPN, community health |
+| Community Organizers USA | Civic servants | Activist, nonprofit leader |
+| Faith & Entrepreneurship | Faith-based business | Entrepreneur, coach |
+| Pastors Network International | International ministry | Global faith leaders |
+| Survivors Who Serve | Trauma-to-service | Addiction recovery, DV advocates |
+| Black Women in Healthcare | Healthcare servants | Nurse, midwife, health educator |
+| Prison Ministry Leaders | Justice-focused | Chaplain, reentry advocate |
+| Foster Care & Adoption Advocates | Child welfare | Social worker, foster parent |
+| Homeless Ministry Network | Compassion ministry | Outreach worker, shelter director |
+| Veterans Faith Community | Military servants | Veteran pastor, chaplain |
 
-**DO NOT:**
-- Post promotional content directly
-- Spam multiple subreddits
-- Create fake accounts
-- Ignore subreddit rules
-
-### Reddit Action Plan
-
-1. Create account with professional username
-2. Build karma through helpful participation
-3. Answer questions about online doctoral programs
-4. Share relevant experiences when appropriate
-5. Only mention PICU when directly relevant and helpful
+**Posting Schedule:** 3x per week minimum. Ceremony week: daily.
 
 ---
 
-## Twitter/X Strategy
+### Instagram (Secondary Channel)
 
-Twitter serves as a platform for thought leadership and professional networking in academic circles.
+**Purpose:** Visual storytelling of honoree journeys and ceremony moments.
 
-### Target Hashtags
+**Content Mix:**
+- 50% — Ceremony photos and video clips (regalia, diploma, emotional moments)
+- 30% — Honoree story carousels (before/after, journey, recognition)
+- 20% — Recognition prompts ("Tag someone who deserves this")
 
-| Hashtag | Usage | Engagement Level |
-|---------|-------|------------------|
-| #DoctoralStudies | Academic discussion | Medium |
-| #OnlinePhD | Distance education | High |
-| #ChristianEducation | Faith-based learning | High |
-| #MinistryLeadership | Church leaders | High |
-| #TheologyStudies | Theological education | Medium |
-| #ChristianCounseling | Counseling field | Medium |
-| #Chaplaincy | Chaplain community | Medium |
+**Key Hashtags:**
 
-### Twitter Action Plan
+| Hashtag | Purpose |
+|---------|---------|
+| #HonoraryDoctorate | Direct product match |
+| #RecognitionCeremony | Event discovery |
+| #YouDidTheWork | Brand hashtag |
+| #BlackChurchLeaders | Community discovery |
+| #WomenInMinistry | Community discovery |
+| #CommunityHeroes | Broad recognition |
+| #FaithAndService | Lifestyle match |
+| #PICU | Brand awareness |
+| #SurvivorToServant | Archetype match |
+| #NursesWhoServe | Healthcare servants |
+| #PastorAppreciation | Ministry recognition |
+| #HonoringHeroes | Broad recognition |
+| #LegacyRecognition | Legacy framing |
+| #DrPoinsette | Personal brand |
+| #EchoUniverse | Ecosystem brand |
 
-**Profile Optimization**
-1. Create PICU official Twitter account
-2. Complete bio with website link
-3. Pin tweet about program offerings
-
-**Content Strategy**
-1. Tweet 3-5 times daily
-2. Share educational content
-3. Engage with relevant hashtags
-4. Retweet student success stories
-
-**Engagement Tactics**
-1. Follow ministry leaders and educators
-2. Respond to degree-seeking tweets
-3. Participate in Twitter chats
-4. Share blog content and resources
+**Posting Schedule:** 4x per week. Stories: daily during ceremony week.
 
 ---
 
-## YouTube Strategy
+### LinkedIn (Tertiary Channel)
 
-YouTube offers opportunity for long-form educational content and program showcases.
+**Purpose:** Professional recognition for educators, healthcare leaders, nonprofit executives, and corporate faith leaders.
 
-### Content Ideas
+**Content Mix:**
+- 50% — Professional honoree spotlights (career achievements + recognition)
+- 30% — Thought leadership on recognition and legacy
+- 20% — Direct outreach to qualified candidates
 
-| Content Type | Purpose | Frequency |
-|--------------|---------|-----------|
-| Program Overview Videos | Information | Monthly |
-| Student Testimonials | Social proof | Bi-weekly |
-| Faculty Introductions | Trust building | Quarterly |
-| Webinar Recordings | Lead generation | Monthly |
-| Q&A Sessions | Engagement | Weekly |
+**Key Search Filters for Candidate Discovery:**
 
-### YouTube Action Plan
+| Filter | Value |
+|--------|-------|
+| Title | Pastor, Chaplain, Director of Nursing, Principal, Executive Director, Nonprofit Founder |
+| Industry | Religious Institutions, Healthcare, Education, Nonprofit |
+| Location | Atlanta, GA (primary); Southeast US (secondary); National (tertiary) |
+| Activity | Posted about service, community impact, or faith in last 30 days |
 
-1. Create PICU YouTube channel
-2. Upload program overview video
-3. Record student testimonials
-4. Create playlist for each degree program
-5. Optimize videos for search (SEO)
+**Posting Schedule:** 2x per week.
 
 ---
 
-## Instagram Strategy
+### YouTube (Supporting Channel)
 
-Instagram reaches younger professionals and provides visual storytelling opportunities.
+**Purpose:** Long-form ceremony documentation and honoree testimonials.
 
-### Content Strategy
+**Content:**
+- Full ceremony recordings (with honoree permission)
+- Honoree testimonial interviews ("What this recognition means to me")
+- Dr. Poinsette's message on the mission of recognition
 
-| Content Type | Format | Frequency |
-|--------------|--------|-----------|
-| Campus/Online Learning | Photos | 3x/week |
-| Student Spotlights | Stories | Daily |
-| Program Information | Carousels | 2x/week |
-| Behind the Scenes | Reels | Weekly |
-| Testimonials | IGTV | Bi-weekly |
-
-### Instagram Action Plan
-
-1. Create professional Instagram profile
-2. Develop consistent visual brand
-3. Use relevant hashtags
-4. Engage with follower comments
-5. Collaborate with Christian influencers
+**Activation Trigger:** Do not invest in YouTube until Lady J's ceremony is documented and at least 2 honoree testimonials are recorded.
 
 ---
 
-## TikTok Strategy
+## Outreach Protocol
 
-TikTok reaches younger audiences considering advanced education.
+The sequence is the same across all channels:
 
-### Content Ideas
-
-| Content Type | Style | Potential Reach |
-|--------------|-------|-----------------|
-| Day in the Life | Student POV | High |
-| Degree Myths Debunked | Educational | High |
-| Career Outcomes | Inspirational | Medium |
-| Quick Tips | Informational | High |
-
-### TikTok Action Plan
-
-1. Create PICU TikTok account
-2. Post 1-2 videos daily
-3. Use trending sounds and formats
-4. Engage with education community
-5. Cross-post to Instagram Reels
+1. **Discover** — Find the candidate through organic search, hashtags, or group activity
+2. **Observe** — Read their posts, understand their work, identify their specific contribution
+3. **Engage** — Comment authentically on their content (not a DM yet)
+4. **Recognize** — DM with recognition first, no mention of PICU or price
+5. **Invite** — Only after they respond positively, introduce the honorary recognition opportunity
+6. **Price** — Only when they ask
 
 ---
 
-## Cross-Platform Integration
+## Content Calendar Anchor
 
-### Unified Messaging
-
-All platforms should communicate consistent messaging:
-- 100% online flexibility
-- Affordable tuition
-- Faith-integrated curriculum
-- Accelerated completion
-- Accredited credentials
-
-### Content Repurposing
-
-| Original Content | Repurpose To |
-|------------------|--------------|
-| Blog posts | LinkedIn articles, Twitter threads |
-| Webinars | YouTube videos, podcast clips |
-| Testimonials | All platforms |
-| Infographics | Pinterest, Instagram, LinkedIn |
-
-### Tracking and Analytics
-
-| Platform | Key Metrics |
-|----------|-------------|
-| LinkedIn | Profile views, connection requests, message responses |
-| Facebook | Group engagement, page likes, ad performance |
-| Reddit | Karma, comment engagement |
-| Twitter | Followers, engagement rate, click-throughs |
-| YouTube | Views, watch time, subscribers |
-| Instagram | Followers, engagement, story views |
+| Week | Platform | Content |
+|------|----------|---------|
+| Week 1 | Facebook + Instagram | Lady J ceremony announcement |
+| Week 2 | Instagram | Lady J honoree spotlight carousel |
+| Week 3 | Facebook | Community recognition prompt |
+| Week 4 | LinkedIn | Professional honoree spotlight |
+| Ceremony Week | All channels | Live ceremony coverage |
 
 ---
 
-*Document maintained by Phoenix Global Nexus Intelligence Division*  
-*Last Updated: January 20, 2026*
+## What NOT to Do
+
+- Do not post about tuition, enrollment, or doctoral programs
+- Do not use the word "student" — honorees are not students
+- Do not open any DM with price or product
+- Do not target Reddit doctoral seekers — wrong audience entirely
+- Do not run TikTok campaigns — wrong demographic for this product
+
+∇θ — updated 2026-03-29

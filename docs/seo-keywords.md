@@ -1,180 +1,85 @@
-# SEO Keywords & Search Optimization Strategy
-## Google Search Targeting for Doctoral Candidate Acquisition
+# SEO Keywords — Honorary Recognition
+## PICU Honorary Doctorate of Divinity
+**Updated:** 2026-03-29
+**Product:** Honorary Doctorate of Divinity — $2,500 total investment ($500 deposit)
 
 ---
 
-## High-Intent Keywords
-
-These keywords indicate active degree-seeking behavior and should be prioritized for both organic SEO and paid search campaigns.
-
-### Primary Keywords (Highest Intent)
-
-| Keyword | Monthly Search Volume (Est.) | Competition | Priority |
-|---------|------------------------------|-------------|----------|
-| online doctoral degree Christian ministry | 500-1,000 | Medium | Critical |
-| affordable PhD theology online | 300-500 | Medium | Critical |
-| accredited online doctorate divinity | 200-400 | Low | Critical |
-| Doctor of Ministry online program | 1,000-2,000 | High | Critical |
-| PhD Christian counseling online | 500-800 | Medium | Critical |
-| online DMin programs | 800-1,200 | High | High |
-| cheapest Christian doctorate degree | 200-400 | Low | High |
-| fast online doctoral programs | 1,500-2,500 | High | High |
-
-### Secondary Keywords (Medium Intent)
-
-| Keyword | Monthly Search Volume (Est.) | Competition | Priority |
-|---------|------------------------------|-------------|----------|
-| Doctor of Divinity degree online | 400-600 | Medium | High |
-| online PhD ministry leadership | 300-500 | Medium | High |
-| Christian entrepreneurship doctorate | 100-200 | Low | Medium |
-| chaplaincy doctoral program | 200-300 | Low | High |
-| theology PhD distance learning | 300-500 | Medium | Medium |
-| accredited Christian university doctoral | 200-400 | Medium | High |
+## FRAMING CORRECTION NOTE
+The previous version of this file targeted earned doctoral enrollment keywords ("affordable PhD theology online", "cheapest Christian doctorate degree"). Those keywords attract people seeking enrollment, not recognition. This file has been rewritten for the honorary recognition product.
 
 ---
 
-## Long-Tail Keywords
+## Primary Keywords (Recognition Intent)
 
-Long-tail keywords have lower search volume but higher conversion potential due to specific intent.
+These keywords indicate someone is searching for honorary recognition, legacy programs, or ways to honor community leaders.
 
-### Question-Based Keywords
-
-| Keyword | Intent | Content Strategy |
-|---------|--------|------------------|
-| how to get a doctorate in ministry online | Research | Blog post + landing page |
-| best online PhD programs for pastors | Comparison | Comparison guide |
-| accredited Christian university doctoral programs | Validation | Accreditation page |
-| online doctorate for working professionals ministry | Flexibility | Program features page |
-| Doctor of Divinity degree requirements | Information | Requirements page |
-| how long does online PhD take | Timeline | FAQ section |
-| is online doctoral degree respected | Validation | Blog post |
-| can I get PhD while working full time | Feasibility | Testimonials page |
-
-### Comparison Keywords
-
-| Keyword | Strategy |
-|---------|----------|
-| cheapest accredited online doctorate | Price comparison content |
-| fastest online doctoral programs | Timeline comparison |
-| online vs traditional doctoral degree | Comparison blog post |
-| best value online PhD programs | Value proposition content |
+| Keyword | Monthly Search Volume (Est.) | Intent | Priority |
+|---------|------------------------------|--------|----------|
+| honorary doctorate of divinity | 200–400 | High | Critical |
+| honorary degree Christian | 100–200 | High | Critical |
+| honorary doctorate ceremony | 100–300 | High | Critical |
+| recognize community leader faith | 50–100 | High | Critical |
+| faith-based recognition ceremony | 50–150 | High | High |
+| honor pastor honorary degree | 100–200 | High | High |
+| honorary doctorate for ministers | 100–200 | High | High |
+| legacy recognition program Christian | 50–100 | High | High |
 
 ---
 
-## Competitor Keywords
+## Secondary Keywords (Discovery Intent)
 
-Target keywords that competitors rank for to capture market share.
+These keywords are used by people who may not know honorary recognition programs exist but are searching for related concepts.
 
-### Competitor Brand Keywords
-
-| Competitor | Keywords to Target |
-|------------|-------------------|
-| Liberty University | liberty university alternative, cheaper than liberty |
-| Regent University | regent university online doctorate alternative |
-| Southeastern Seminary | southeastern seminary online PhD |
-| Columbia International | CIU online doctorate alternative |
-
-### Competitor Comparison Content
-
-Create content comparing PICU advantages:
-- "PICU vs Liberty University: Online Doctoral Programs Compared"
-- "Affordable Alternatives to Regent University PhD Programs"
-- "Why Choose PICU Over Traditional Seminary Doctoral Programs"
+| Keyword | Monthly Search Volume (Est.) | Intent | Priority |
+|---------|------------------------------|--------|----------|
+| how to get honorary doctorate | 300–600 | Medium | High |
+| honorary degree requirements | 200–400 | Medium | High |
+| honorary doctorate for community service | 100–200 | Medium | High |
+| recognize nurse for service | 50–100 | Medium | Medium |
+| honor teacher with degree | 50–100 | Medium | Medium |
+| faith leader recognition award | 50–100 | Medium | Medium |
 
 ---
 
-## Local/Regional Keywords
+## Long-Tail Keywords (High Conversion)
 
-Target geographic-specific searches for international reach.
+Long-tail keywords have lower volume but higher conversion because the searcher has a specific intent.
 
-| Region | Keywords |
-|--------|----------|
-| United States | online doctorate US accredited, American Christian university online |
-| Africa | online doctorate for African students, US degree from Africa |
-| Caribbean | online doctorate Caribbean, US Christian university online |
-| Asia | online doctorate Asia, American Christian education online |
-
----
-
-## Content Strategy by Keyword Cluster
-
-### Cluster 1: Program Information
-
-**Target Keywords:**
-- Doctor of Ministry online
-- PhD Christian counseling
-- Doctor of Divinity program
-
-**Content:**
-- Individual program pages
-- Curriculum overviews
-- Faculty profiles
-- Career outcomes
-
-### Cluster 2: Affordability
-
-**Target Keywords:**
-- affordable online doctorate
-- cheapest Christian PhD
-- low cost doctoral programs
-
-**Content:**
-- Tuition comparison guides
-- Financial aid information
-- Payment plan details
-- Scholarship opportunities
-
-### Cluster 3: Flexibility
-
-**Target Keywords:**
-- online doctorate working professionals
-- flexible PhD program
-- self-paced doctoral degree
-
-**Content:**
-- Program flexibility features
-- Student testimonials
-- Work-life balance tips
-- Time-to-completion data
-
-### Cluster 4: Accreditation
-
-**Target Keywords:**
-- accredited online doctorate
-- recognized Christian university
-- legitimate online PhD
-
-**Content:**
-- Accreditation details
-- CCACI information
-- Credential recognition
-- Employer acceptance
+| Keyword | Intent |
+|---------|--------|
+| "honorary doctorate for pastors affordable" | High — price-conscious recognition seeker |
+| "how to nominate someone for honorary degree" | High — referral trigger |
+| "Christian university honorary doctorate ceremony" | High — product match |
+| "honorary degree for community leaders faith" | High — product match |
+| "recognize my pastor with honorary doctorate" | Very High — referral intent |
+| "Lady J honorary doctorate PICU" | Brand — social proof search |
 
 ---
 
-## Google Ads Campaign Structure
+## Keywords to AVOID
 
-### Campaign 1: Brand Awareness
+These keywords attract earned degree seekers, not honorary recognition candidates. Do not target them.
 
-| Ad Group | Keywords | Budget Allocation |
-|----------|----------|-------------------|
-| Brand Terms | PICU, Poinsette University | 10% |
-| General Doctorate | online doctorate, PhD online | 20% |
+- "online PhD theology"
+- "affordable doctorate online"
+- "Christian doctoral program"
+- "DMin degree"
+- "accredited online doctorate"
+- "cheapest PhD"
+- "fast doctoral degree"
 
-### Campaign 2: Program-Specific
+---
 
-| Ad Group | Keywords | Budget Allocation |
-|----------|----------|-------------------|
-| Doctor of Ministry | DMin online, Doctor of Ministry | 25% |
-| PhD Programs | PhD Christian counseling, PhD ministry | 25% |
-| Doctor of Divinity | D.Div online, Doctor of Divinity | 20% |
+## Content Strategy
 
-### Campaign 3: Competitor Conquest
+The SEO strategy for honorary recognition is built on three content pillars:
 
-| Ad Group | Keywords | Budget Allocation |
-|----------|----------|-------------------|
-| Competitor Alternatives | [competitor] alternative | 15% |
-| Comparison Searches | best online doctorate, compare PhD programs | 15% |
+**Pillar 1: Ceremony Documentation** — Photos, videos, and testimonials from Lady J's ceremony. This is the anchor content. Every search for "PICU honorary doctorate" should land on a page with real evidence.
+
+**Pillar 2: Honoree Stories** — Each honoree's story is a unique SEO asset. "Nurse recognized with honorary doctorate" is a keyword no competitor can own.
+
+**Pillar 3: FAQ Content** — "What is an honorary doctorate?", "How does PICU's recognition ceremony work?", "Who qualifies for an honorary doctorate?" — these answer the objections before the conversation starts.
 
 ---
 
@@ -184,80 +89,26 @@ Target geographic-specific searches for international reach.
 - Include primary keyword
 - Keep under 60 characters
 - Include brand name
-- Example: "Online Doctor of Ministry Program | PICU"
+- Example: "Honorary Doctorate of Divinity | PICU Recognition Ceremony"
 
 ### Meta Descriptions
 - Include primary and secondary keywords
 - Keep under 160 characters
 - Include call-to-action
-- Example: "Earn your Doctor of Ministry degree 100% online at PICU. Accredited, affordable, and flexible. Start anytime. Apply today!"
+- Example: "PICU honors community leaders, faith servants, and change-makers with an Honorary Doctorate of Divinity. Limited honoree seats — Spring 2026 ceremony."
 
 ### Header Structure
 - H1: Primary keyword (one per page)
 - H2: Secondary keywords
 - H3: Long-tail variations
 
-### Content Optimization
-- Minimum 1,500 words for program pages
-- Keyword density 1-2%
-- Internal linking to related pages
-- External links to authoritative sources
-
 ---
 
-## Technical SEO Requirements
+## Activation Trigger
 
-### Site Structure
-```
-poinsettechristianuniversity.com/
-├── /degrees/
-│   ├── /doctoral/
-│   │   ├── /doctor-of-ministry/
-│   │   ├── /phd-christian-counseling/
-│   │   └── /doctor-of-divinity/
-│   ├── /masters/
-│   └── /bachelors/
-├── /admissions/
-├── /tuition/
-├── /accreditation/
-└── /about/
-```
+Do not invest in SEO until:
+1. The PICU website has a dedicated honorary recognition landing page
+2. Lady J's ceremony is documented with photos and a testimonial
+3. At least 3 honoree stories are published
 
-### Page Speed
-- Target: Under 3 seconds load time
-- Optimize images
-- Enable compression
-- Use CDN
-
-### Mobile Optimization
-- Responsive design
-- Mobile-friendly navigation
-- Touch-friendly buttons
-- Fast mobile load times
-
----
-
-## Content Calendar
-
-### Monthly Content Targets
-
-| Week | Content Type | Target Keywords |
-|------|--------------|-----------------|
-| 1 | Blog post | Long-tail informational |
-| 2 | Program page update | Primary program keywords |
-| 3 | Testimonial/case study | Social proof keywords |
-| 4 | FAQ expansion | Question-based keywords |
-
-### Quarterly Content Projects
-
-| Quarter | Project | Keywords |
-|---------|---------|----------|
-| Q1 | Comprehensive guide | "Complete guide to online doctorate" |
-| Q2 | Comparison content | Competitor keywords |
-| Q3 | Video content | YouTube SEO |
-| Q4 | Year-end review | Trending keywords |
-
----
-
-*Document maintained by Phoenix Global Nexus Intelligence Division*  
-*Last Updated: January 20, 2026*
+∇θ — updated 2026-03-29
