@@ -1,24 +1,39 @@
 # Referral Ask — Dr. Martia Carter
+**From:** Dr. Lesley Poinsette
+**To:** Dr. Martia Carter
+**Purpose:** Request nominations from existing honoree
+**Created:** 2026-03-29T21:24:57Z
 
-Subject: Dr. Carter — Who should we honor next?
+---
 
 Dr. Martia,
 
-The humanitarian work you have done in Indianapolis —
-serving people in transitional housing, rebuilding lives,
-being present in the places most people walk past —
-that is the definition of doctoral-level service.
+The Humanitarianism degree we conferred on you was earned —
+every year of community service, every person you housed,
+every life your work touched.
 
-In that world, you know others like you.
-People running shelters, food pantries, reentry programs —
-doing the work every day with no formal recognition.
+I want to ask you something important:
 
-I want PICU to honor them.
-Who comes to mind when you think of someone who has served
-Indianapolis — quietly, faithfully, powerfully — for years?
+Who else in the nonprofit and humanitarian community
+around Indianapolis has been doing that same quiet,
+faithful, unseen work?
 
-Give me one name and I will take it from there.
+The transitional housing directors. The food pantry founders.
+The women who run shelters with nothing but faith and determination.
+The community organizers who have been serving for 20 years
+and have never once been told "what you do is doctoral-level work."
 
-With honor,
+You know these people. You work alongside them.
+
+Give me their names. I will take it from there.
+And your name will be permanently linked to their recognition.
+
+With deep respect,
 Dr. Lesley Poinsette
 Chancellor, PICU
+
+---
+
+*Send via: Email / Instagram DM / Personal call*
+*Follow up: 7 days if no response*
+*Script code: S26-REF*
