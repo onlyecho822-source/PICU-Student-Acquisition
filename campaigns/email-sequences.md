@@ -31,7 +31,7 @@ As promised, here's your free guide: [Link to Lead Magnet]
 At PICU, we believe that academic excellence and spiritual growth go hand in hand. Our 100% online doctoral programs are designed for busy professionals like you who want to advance their education without putting their life on hold.
 
 Here's what makes PICU different:
-• Affordable tuition starting at $2,500
+• Affordable investment starting at $2,500
 • Flexible start dates—begin when you're ready
 • 100% online—study from anywhere
 • Accredited by CCACI
@@ -142,7 +142,7 @@ PAYMENT OPTIONS:
 ✓ Scholarship opportunities for qualifying students
 ✓ No payment plans required for most students
 
-We believe that financial constraints shouldn't prevent you from achieving your educational goals. That's why we've worked hard to keep our tuition affordable while maintaining academic quality.
+We believe that financial constraints shouldn't prevent you from achieving your educational goals. That's why we've worked hard to keep our investment affordable while maintaining academic quality.
 
 Have questions about financing your education? Reply to this email or call us at 1-877-712-PICU.
 
@@ -161,7 +161,7 @@ Dear [First Name],
 Over the past two weeks, I've shared information about:
 • Our doctoral programs
 • Student success stories
-• Affordable tuition and payment options
+• Affordable investment and payment options
 
 Now I have a question for you: Are you ready to take the next step?
 
@@ -348,5 +348,5 @@ Poinsette International Christian University
 
 ---
 
-*Document maintained by Phoenix Global Nexus Intelligence Division*  
+*Document maintained by PICU Acquisition System*  
 *Last Updated: 2026-03-29*
