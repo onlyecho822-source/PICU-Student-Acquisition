@@ -2,12 +2,12 @@
 ## PICU Honorary Doctorate Candidate Acquisition
 **Updated:** 2026-03-29
 **Product:** Honorary Doctorate of Divinity — $2,500 total investment ($500 deposit)
-**Status:** FUTURE — activate when paid campaigns are ready. Do NOT run against earned degree keywords.
+**Status:** FUTURE — activate when paid campaigns are ready. Do NOT run against honorary degree keywords.
 
 ---
 
 ## FRAMING CORRECTION NOTE
-The previous version of this file was built for earned doctoral enrollment at $6,400 tuition. That product brief is no longer active. This file has been rewritten for the honorary recognition product. The primary acquisition channel remains warm outreach and referral — not cold paid search. This document covers the future paid strategy for when PICU is ready to scale beyond the referral engine.
+The previous version of this file was built for earned doctoral enrollment at $2,500 investment. That product brief is no longer active. This file has been rewritten for the honorary recognition product. The primary acquisition channel remains warm outreach and referral — not cold paid search. This document covers the future paid strategy for when PICU is ready to scale beyond the referral engine.
 
 ---
 
@@ -72,7 +72,7 @@ Recognition first. Price never in the headline.
 | Phase | Monthly Budget | Goal |
 |-------|---------------|------|
 | Test | $500 | Validate click-through and landing page conversion |
-| Scale | $1,500–$3,000 | 2–4 ceremony inquiries per month |
+| Scale | $2,500–$3,000 | 2–4 ceremony inquiries per month |
 | Optimize | Based on CPL | Reduce cost per qualified inquiry |
 
 **Target CPL:** Under $150
