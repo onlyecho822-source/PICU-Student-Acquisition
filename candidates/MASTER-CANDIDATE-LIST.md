@@ -1,6 +1,5 @@
 # PICU Doctoral Candidate Master List
-## Phoenix Global Nexus Intelligence Division
-## Timestamp: 12:00 Jan 20, 2026
+## Updated: 2026-03-29T21:54:52Z
 
 ---
 
@@ -128,4 +127,4 @@
 
 **Phoenix Global Nexus Intelligence Division**
 **Classification: OPERATIONAL**
-**Timestamp: 12:00 Jan 20, 2026**
+**Updated: 2026-03-29T21:54:52Z**
