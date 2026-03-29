@@ -1,180 +1,115 @@
-# PICU Student Acquisition Hub
-
-## Poinsette International Christian University
-### Doctoral Candidate Lead Generation & Recruitment Strategy Center
-
----
-
-## Overview
-
-This repository serves as the central intelligence hub for identifying, attracting, and enrolling prospective doctoral candidates at **Poinsette International Christian University (PICU)**. The strategies documented here are designed to locate individuals actively seeking online doctoral degrees in Christian ministry, theology, counseling, and entrepreneurship.
-
-**Repository Established:** January 20, 2026  
-**Phoenix Global Nexus Intelligence Division**
+# PICU STUDENT ACQUISITION HUB
+**Poinsette International Christian University**
+**Honorary Doctorate Program — Acquisition Engine**
+**Last updated:** 2026-03-29T21:50:58Z
 
 ---
 
-## University Profile
+## WHAT THIS REPO IS
 
-| Attribute | Details |
-|-----------|---------|
-| **Institution** | Poinsette International Christian University (PICU) |
-| **Website** | [poinsettechristianuniversity.com](https://poinsettechristianuniversity.com/) |
-| **Phone** | 1-877-712-PICU (1-877-712-7428) |
-| **Email** | info@poinsettechristianuniversity.com |
-| **Format** | 100% Online |
-| **Accreditation** | Christian College Accreditation Commission International (CCACI) |
-| **Program Duration** | 6-36 months |
+This repository is the complete operational system for
+finding, enrolling, and recognizing honorary doctorate
+candidates for PICU's annual commencement ceremonies.
 
----
+**Two ceremonies per year:**
+- Spring — Indiana (Hamilton East Public Library, Fishers IN)
+- Fall — Atlanta, Georgia (Fall 2026 — nominations open)
 
-## Doctoral Programs
-
-### Doctorate Degrees
-
-| Program | Tuition | Application Fee |
-|---------|---------|-----------------|
-| Doctor of Divinity (D.Div.) in Chaplaincy and Pastoral Care | $6,400 | $95 |
-| Doctor of Philosophy in Christian Entrepreneurship | $6,400 | $95 |
-| Doctor of Philosophy in Practical Ministry | $6,400 | $95 |
-
-### Hybrid Dual Degrees (Including PhD)
-
-| Program | Tuition | Application Fee |
-|---------|---------|-----------------|
-| MA in Christian Counseling & PhD in Christian Leadership & Business | $7,500 | $95 |
-| M.Sc. in Practical Ministry & PhD in Christian Counseling | $7,500 | $95 |
-| MA in Theology (Divinity) & PhD in Practical Ministry | $7,500 | $95 |
+**Price:** $2,500 total · $500 non-refundable deposit
+**Contact:** info@poinsettechristianuniversity.com · 1-877-712-PICU
 
 ---
 
-## Repository Structure
+## FOR DR. POINSETTE — START HERE
+
+👉 `outreach/INSTRUCTIONS-FOR-DR-POINSETTE.md`
+
+That file tells you exactly where everything is
+and what to do next in plain language.
+
+---
+
+## REPO STRUCTURE
 
 ```
-PICU-Student-Acquisition/
-├── README.md                          # This file
-├── docs/
-│   ├── university-profile.md          # Detailed university information
-│   ├── lead-generation-strategy.md    # Comprehensive lead gen playbook
-│   ├── social-media-channels.md       # Platform-specific strategies
-│   ├── seo-keywords.md                # Search optimization targets
-│   └── competitive-analysis.md        # Market positioning
-├── data/
-│   ├── target-demographics.md         # Ideal candidate profiles
-│   ├── lead-sources.md                # Where to find candidates
-│   └── forums-communities.md          # Online discussion venues
-├── campaigns/
-│   ├── google-ads-strategy.md         # PPC campaign framework
-│   ├── facebook-ads-strategy.md       # Social media advertising
-│   └── email-sequences.md             # Nurture campaign templates
-├── automation/
-│   ├── weekly-tasks.md                # Recurring activities
-│   ├── monthly-tasks.md               # Monthly review items
-│   └── quarterly-tasks.md             # Strategic reviews
-└── CONTRIBUTING.md                    # How to contribute
+docs/                       Strategy, pricing, program design
+  ENROLLMENT-SEQUENCE.md    The 6-step process + discovery call script
+  PRICING-AND-ENROLLMENT.md $2,500 / $500 deposit / payment plans
+  PRICE-ANCHOR.md           How to talk about price — comparison + scripts
+  FRIENDS-FAMILY-REFERRAL-PROGRAM.md  Honoree referral engine
+  FALL-2026-ATLANTA-CEREMONY.md  Atlanta announcement + candidates
+  NOMINATION-FORM.md        Public form design (build on Typeform)
+  MANUS-EXECUTION-GUIDE.md  AI executor guide
+  LADY-J-VIDEO-REQUEST.md   Request script for testimonial video
+
+outreach/                   Everything Dr. Poinsette sends
+  ACCEPTANCE-LETTER-TEMPLATE.md  Formal offer letter
+  DEPOSIT-CONFIRMATION.md   Seat confirmed email
+  BALANCE-REMINDER.md       45/30/14 day payment reminder
+  INSTRUCTIONS-FOR-DR-POINSETTE.md  Dr. Poinsette's quick guide
+  drafts/
+    dr-poinsette-womens-ministry-dm.md  Instagram/DM outreach
+    instagram-announcement-post.md  Ready-to-post caption
+    referral-asks/           7 personalized messages (one per honoree)
+
+candidates/                 Everyone we know about
+  CANDIDATE-ENGINE.md       15 verified candidates with contact info
+  HONOREE-NETWORK-INTELLIGENCE.md  Deep research on 7 honorees
+  honorary-degree-pipeline.md  Pipeline with source codes
+  honorees/                 Individual profiles for each honoree
+    jacquie-murrell.md
+    detrice-ward.md
+    jamarvin-walker.md
+    martia-carter.md
+    cecily-smith.md
+    kimberly-kent.md
+    promise-chima.md
+
+automation/                 Recurring tasks (weekly/monthly/quarterly)
+campaigns/                  Email sequences, ad strategy
+presentations/              Webinar deck (17 slides)
+pdf_exports/                PDF versions of key docs
 ```
 
 ---
 
-## Quick Start
+## THE PROGRAM IN ONE PAGE
 
-### Finding Prospective Students
+PICU honors people who have done doctoral-level Kingdom work
+and never been formally recognized for it.
 
-1. **Social Media Monitoring** - See `/docs/social-media-channels.md`
-2. **Forum Engagement** - See `/data/forums-communities.md`
-3. **SEO/SEM Campaigns** - See `/docs/seo-keywords.md`
-4. **Email Outreach** - See `/campaigns/email-sequences.md`
+**Who we honor:**
+Pastors, ministers, counselors, gospel artists, humanitarian
+leaders, and Christian entrepreneurs with 15+ years of
+faithful service — people who did the work without the credential.
 
-### Target Audience
+**What they receive:**
+Official diploma · Full doctoral regalia · Formal ceremony
+Press release · Hall of Honor listing · Legacy program
 
-The ideal doctoral candidate is a working professional aged 30-55 who is seeking flexible, faith-based education. Primary segments include:
+**What it costs:**
+$2,500 total ($500 non-refundable deposit to reserve seat)
 
-- Ministry leaders and pastors seeking credentials
-- Chaplains (military, hospital, prison, sports)
-- Christian counselors pursuing licensure
-- Faith-based entrepreneurs
-- International students seeking US-accredited degrees
+**The proof of concept:**
+Lady J (Jacquie Murrell) — honored March 28, 2026
+17 years transformational counseling and mentoring work
+63+ countries of impact
 
----
-
-## Lead Generation Channels
-
-### Tier 1: High-Intent Sources
-
-| Channel | Priority | Notes |
-|---------|----------|-------|
-| Google Search Ads | Critical | Target "online doctoral degree" keywords |
-| LinkedIn Groups | High | Professional networking |
-| Education Directories | High | PhDportal, GradSchoolHub listings |
-
-### Tier 2: Community Engagement
-
-| Channel | Priority | Notes |
-|---------|----------|-------|
-| Facebook Groups | Medium-High | Ministry leader communities |
-| Reddit | Medium | r/theology, r/GradSchool |
-| DegreeInfo Forum | Medium | Active degree-seeker discussions |
-
-### Tier 3: Partnership Development
-
-| Channel | Priority | Notes |
-|---------|----------|-------|
-| Church Networks | Medium | Denominational partnerships |
-| Ministry Organizations | Medium | Chaplaincy associations |
-| Christian Influencers | Medium | Podcast/YouTube collaborations |
+**The message:**
+*"You did the work. We see it."*
 
 ---
 
-## Continuous Improvement Strategy
+## KEY CONTACTS
 
-### Weekly Activities
-- Monitor social media groups for degree-seeking posts
-- Engage authentically in forum discussions
-- Review and respond to inquiries
-- Track lead source performance
+Dr. Lesley Poinsette — Chancellor
+poinsettechristianuniversity.com
+info@poinsettechristianuniversity.com
+1-877-712-PICU
 
-### Monthly Activities
-- Host webinars and information sessions
-- Update directory listings
-- Analyze conversion metrics
-- Refine ad targeting
-
-### Quarterly Activities
-- Partnership outreach campaigns
-- Competitive analysis refresh
-- Content strategy review
-- Budget reallocation
+Ceremony site: wepicu.live
 
 ---
 
-## Metrics Dashboard
-
-| KPI | Target | Tracking |
-|-----|--------|----------|
-| Website Visitors/Month | 5,000+ | Google Analytics |
-| Lead Form Submissions | 200+ | CRM |
-| Email List Growth | 15%/month | Email Platform |
-| Application Starts | 50+ | Admissions System |
-| Enrollment Rate | 20% | Admissions System |
-| Cost Per Lead | <$25 | Ad Platforms |
-| Cost Per Enrollment | <$500 | Finance |
-
----
-
-## Contact
-
-**Poinsette International Christian University**  
-Phone: 1-877-712-PICU  
-Email: info@poinsettechristianuniversity.com  
-Website: https://poinsettechristianuniversity.com/
-
----
-
-## License
-
-This repository is maintained for internal strategic purposes. All rights reserved.
-
----
-
-*Phoenix Global Nexus Intelligence Division*  
-*Timestamp: 10:45 Jan 20, 2026*
+*Built by Nathan Poinsette + Claude + Manus · Echo Nervous System*
+*∇θ — chain sealed, truth preserved.*
