@@ -51,17 +51,17 @@ Poinsette International Christian University holds accreditation from the **Chri
 PICU offers several doctoral-level programs designed for working professionals seeking advanced credentials in ministry, counseling, and entrepreneurship.
 
 #### Doctor of Divinity (D.Div.) in Chaplaincy and Pastoral Care
-**Tuition:** $6,400.00 | **Application Fee:** $95.00
+**Tuition:** $2,500.00 | **Application Fee:** $95.00
 
 This degree program prepares students to serve in parishes, dioceses, or other ministerial settings with in-depth theological knowledge and effective pastoral skills. Graduates are equipped for leadership roles in various chaplaincy environments.
 
 #### Doctor of Philosophy in Christian Entrepreneurship
-**Tuition:** $6,400.00 | **Application Fee:** $95.00
+**Tuition:** $2,500.00 | **Application Fee:** $95.00
 
 This program equips students to further explore the depths of entrepreneurship in the global marketplace and leadership dynamics. It integrates faith principles with business acumen for the modern Christian entrepreneur.
 
 #### Doctor of Philosophy in Practical Ministry
-**Tuition:** $6,400.00 | **Application Fee:** $95.00
+**Tuition:** $2,500.00 | **Application Fee:** $95.00
 
 Scholars in this advanced degree program are prepared with knowledge in the history and context of the Bible for assessing the beliefs and actions of Christians. The program develops practical ministry skills alongside theological depth.
 
@@ -131,7 +131,7 @@ Programs typically take between 6 to 36 months to complete. This flexibility is 
 - International students
 
 ### Affordable Tuition
-PICU offers competitively priced tuition with flexible payment plans and scholarship opportunities for qualifying students. No student loans are typically required.
+PICU offers competitively priced investment with flexible payment plans and scholarship opportunities for qualifying students. No payment plans are typically required.
 
 ---
 
@@ -139,7 +139,7 @@ PICU offers competitively priced tuition with flexible payment plans and scholar
 
 | Feature | PICU Advantage |
 |---------|----------------|
-| **Price Point** | $6,400-$7,500 for doctoral programs (significantly below competitors) |
+| **Price Point** | $2,500-$7,500 for doctoral programs (significantly below competitors) |
 | **Flexibility** | Start anytime, 100% online |
 | **Duration** | 6-36 months (accelerated options) |
 | **Accreditation** | CCACI recognized |
@@ -167,5 +167,5 @@ English-speaking students worldwide seeking US-accredited Christian education wi
 
 ---
 
-*Document maintained by Phoenix Global Nexus Intelligence Division*  
+*Document maintained by PICU Acquisition System*  
 *Last Updated: 2026-03-29*
