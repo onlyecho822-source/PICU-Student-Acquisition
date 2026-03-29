@@ -239,7 +239,7 @@ Create blog content targeting these searches:
 | Christian Leadership University | Doctor of Theology | $8,000-15,000 |
 
 **PICU Competitive Advantage:**
-- Lower price point ($6,400-$7,500)
+- Lower price point ($2,500-$7,500)
 - Flexible enrollment (start anytime)
 - 100% online format
 - Shorter completion time (6-36 months)
@@ -309,4 +309,4 @@ Create blog content targeting these searches:
 ---
 
 *Report compiled for PICU Student Acquisition Initiative*
-*Phoenix Global Nexus Intelligence Division*
+*PICU Acquisition System*
