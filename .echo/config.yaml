@@ -1,0 +1,46 @@
+# .echo/config.yaml
+# Echo Nervous System — Node Identity
+# Canonical: echo-core/spec/ECHO_NERVOUS_SYSTEM_SPEC.md
+
+node:
+  id: "PICU-Student-Acquisition"
+  type: "campaign"
+  status: "active"
+  version: "1.0.0"
+  schema_version: "1.0"
+
+capabilities:
+  - student_acquisition
+  - doctoral_outreach
+  - campaign_automation
+
+ai_preferences:
+  primary: "claude"
+  secondary: "claude"
+  batch: "deepseek"
+  vision: "gpt4o"
+
+subjects:
+  subscribe:
+    - "echo.PICU-Student-Acquisition.*.*.task_offer"
+    - "echo.coordinator.all.sync_request"
+    - "echo.coordinator.all.heartbeat"
+  publish:
+    - "echo.PICU-Student-Acquisition.*.*.task_result"
+    - "echo.PICU-Student-Acquisition.*.*.error"
+    - "echo.EMERGING.any.discovery.surface"
+
+health_endpoint: "/echo/health"
+metrics_endpoint: "/echo/metrics"
+
+domain: "education_acquisition"
+mission_alignment: "picu_acquisition"
+activation_condition: "always"
+
+# Nervous system binding
+nervous_system:
+  spine: "echo-coordinator"
+  bus: "nats-jetstream"
+  truth_store: "postgres"
+  artifact_store: "github"
+  lock_service: "redis"
