@@ -44,3 +44,6 @@ With great anticipation,
 
 Dr. Lesley Poinsette
 Chancellor, Poinsette International Christian University
+
+---
+*Honorary Doctorate · $2,500 total · $500 non-refundable deposit · Updated: 2026-03-29T22:05:51Z*
