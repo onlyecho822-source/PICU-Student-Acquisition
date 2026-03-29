@@ -1,24 +1,39 @@
 # Referral Ask — Dr. Cecily Smith
+**From:** Dr. Lesley Poinsette
+**To:** Dr. Cecily Smith
+**Purpose:** Request nominations from existing honoree
+**Created:** 2026-03-29T21:24:57Z
 
-Subject: Dr. Smith — Who should we honor next?
+---
 
 Dr. Cecily,
 
-Your recognition at PICU marked a moment I will not forget.
-The leadership you bring to your community is real —
-and the people in your circle feel it every day.
+Your presence at the Spring 2026 ceremony meant so much.
+The leadership you carry — in your church, your business,
+your community — is the definition of what PICU honors.
 
-As we build the next class of honorary doctoral candidates,
-I am turning to our Founding Class first.
+I want to ask you to do something:
 
-Who do you know who has given their life to Kingdom leadership —
-business, ministry, community — and has never been formally honored?
+Think about the women in your circle who have been building
+quietly for years. The ones who show up every week,
+pour into everyone around them, and never ask for anything
+in return. The ones who have been doing doctoral-level Kingdom
+work without a single credential to show for it.
 
-Two names. That is all I am asking.
-Your referral carries more weight than any advertisement we could run.
+I want to honor them.
 
-Who comes to mind?
+And I want you to be the one who nominates them.
+When they hold that diploma, your name will be on it
+as the person who said "she deserves this."
+
+Who do you want to nominate?
 
 With love,
 Dr. Lesley Poinsette
 Chancellor, PICU
+
+---
+
+*Send via: Email / Instagram DM / Personal call*
+*Follow up: 7 days if no response*
+*Script code: S26-REF*
