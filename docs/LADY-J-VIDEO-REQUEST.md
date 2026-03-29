@@ -1,104 +1,98 @@
-# LADY J VIDEO TESTIMONIAL — REQUEST & BRIEF
-**Priority:** HIGH — primary sales asset for next 12 months
-**Updated:** 2026-03-29T21:32:47Z
+# LADY J VIDEO TESTIMONIAL — REQUEST SCRIPT
+**Purpose:** 60-second video from Lady J = primary sales asset for next 12 months
+**Updated:** 2026-03-29T21:47:34Z
 
 ---
 
-## WHY THIS MATTERS
+## WHY THIS IS THE HIGHEST-ROI ASSET IN THE ENTIRE SYSTEM
 
-A 60-second video of Lady J saying "this is what it meant to me"
-is worth more than every written document in this repo combined.
+A written announcement converts at X.
+Lady J on video saying "this is what it meant to me" converts at 10X.
 
-When a candidate receives an outreach DM from Dr. Poinsette,
-the first thing they do is go looking for proof.
-Right now they find a written press release.
-A video changes that completely.
+This single 60-second video:
+- Goes on Dr. Poinsette's Instagram (pinned)
+- Goes on wepicu.live front page
+- Gets linked in every single outreach DM
+- Gets sent to every candidate who is "thinking about it"
+- Replaces 1,000 words of written explanation
 
-**A video does three things:**
-1. Proves the ceremony is real and beautiful
-2. Shows the emotional impact in Lady J's own voice
-3. Gives Dr. Poinsette a shareable asset for every platform
-
----
-
-## THE VIDEO REQUEST (Send to Lady J)
-
-**From:** Dr. Lesley Poinsette
-**To:** Dr. Jacquie "Lady J" Murrell
-**Method:** Personal text or Instagram DM
+It does not need to be professionally shot.
+Phone video, good lighting, authentic emotion.
+That is more powerful than a studio production.
 
 ---
+
+## THE REQUEST — DR. POINSETTE SENDS THIS TO LADY J
 
 "Lady J,
 
-The response to your honorary doctorate announcement
-has been incredible. People are reaching out wanting
-to know more about PICU.
+Watching you receive your honorary doctorate was one of the
+most powerful moments of my life as Chancellor.
+Your face when they put that hood on your shoulders —
+I will never forget it.
 
-I have one small ask.
+I have one small ask that would mean everything
+for the women coming behind you.
 
-Would you be willing to record a 60-second video —
-just on your phone, wherever you are — sharing what
-receiving your doctorate meant to you personally?
+Would you record a 60-second video on your phone
+sharing what that moment meant to you?
+Not scripted. Just you, talking to the camera,
+the way you talk to the women you mentor.
 
-No script needed. Just you, in your own words.
+I want every woman who gets my DM to see your face
+and hear your voice before they respond.
+Your testimony will open doors that nothing else can.
 
-Something like:
-- What the recognition meant after all these years
-- What you felt when you put on the regalia
-- What you would say to someone who is considering it
+It can be as simple as:
+"I am Lady J. PICU just honored me with an Honorary Doctorate
+for 17 years of work in counseling and mentoring.
+Here is what I want you to know..."
 
-That video will help me honor the next group of leaders
-the same way we honored you.
+That is it. Whatever comes naturally.
 
-You know how hard it is to see yourself the way others see you.
-That video helps them see themselves.
+If you can record it this week,
+I will have it posted and working for you by the weekend.
 
-Whenever you have a moment — no rush. Phone quality is perfect.
-
-Thank you,
-Dr. Lesley"
-
----
-
-## VIDEO BRIEF (If Lady J wants direction)
-
-**Length:** 60–90 seconds maximum
-**Format:** Vertical (phone camera, Instagram-ready)
-**Quality:** Phone quality is fine — authentic > polished
-**Setting:** Anywhere comfortable — home, office, church
-
-**Suggested talking points (pick 2–3):**
-1. "When Dr. Poinsette told me PICU wanted to honor me..."
-2. "What it felt like to put on the regalia after [X] years of work..."
-3. "If you are someone who has been serving faithfully
-    and wondering if your work matters..."
-4. "The moment they put that hood on my shoulders..."
-5. "I did not do this work for a credential —
-    but having it officially recognized..."
-
-**Where it will be used:**
-- Dr. Poinsette's Instagram (primary)
-- wepicu.live homepage
-- Linked in all outreach messages
-- PICU YouTube channel
+With so much love and gratitude,
+Dr. Lesley Poinsette"
 
 ---
 
-## DEPLOYMENT PLAN (Once video is received)
+## WHAT SHE SHOULD COVER (suggested, not scripted)
 
-1. Post to Dr. Poinsette Instagram with caption:
-   "She said it better than I ever could. 🙌
-   Dr. Jacquie 'Lady J' Murrell on what her
-   PICU Honorary Doctorate meant to her.
-   Link in bio to nominate yourself or someone you know."
+1. Who she is — 1 sentence
+2. What she has been doing for 17 years — 1 sentence
+3. What it felt like to receive the honorary doctorate — 2 sentences
+4. What she wants other women in ministry to know — 2 sentences
+5. The call to action — "If this is you, DM Dr. Poinsette" — 1 sentence
 
-2. Add to wepicu.live homepage above the fold
-
-3. Update all outreach DM templates to include video link
-
-4. Send to all 15 confirmed candidates with note:
-   "I wanted you to hear from Lady J directly."
+Total: ~60 seconds. Phone quality is fine.
 
 ---
-*2026-03-29T21:32:47Z · Claude · Strategist Node · ∇θ*
+
+## WHERE TO USE THE VIDEO
+
+Once received:
+☐  Dr. Poinsette posts to Instagram — PINNED as first post
+☐  Uploaded to wepicu.live front page
+☐  Linked in every outreach DM: "Watch Lady J's story: [link]"
+☐  Linked in acceptance letter: "See what this looks like: [link]"
+☐  Linked in price anchor conversation
+☐  Used as the primary asset in any paid social if PICU ever runs ads
+
+---
+
+## BACKUP: IF LADY J CANNOT RECORD THIS WEEK
+
+Use the written EGO Entertainment announcement as the proof link
+in all outreach until the video exists.
+
+Written proof link:
+https://www.egoentertainmentnet.com/post/lady-j-to-receive-honorary-doctorate-inspire-future-leaders-through-newly-established-legacy-schol
+
+This is the fallback. The video is the goal.
+
+---
+
+*PICU-Student-Acquisition/docs/LADY-J-VIDEO-REQUEST.md*
+*2026-03-29T21:47:34Z*
