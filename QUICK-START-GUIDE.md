@@ -1,38 +1,54 @@
-# PICU Student Acquisition - Quick Start Guide
-
-**Welcome to the automated lead generation system for Poinsette International Christian University.**
-
-This repository contains everything you need to find, attract, and enroll new doctoral students.
+# PICU HONORARY DOCTORATE — QUICK START GUIDE
+**Updated:** 2026-03-29T22:05:51Z
 
 ---
 
-## **Your 3-Step Action Plan**
+## FOR DR. POINSETTE — 3 STEPS TO YOUR FIRST ENROLLMENT
 
-### **Step 1: Review the Candidate List (15 Minutes)**
+### Step 1: Set up your booking link (15 min)
+Go to calendly.com → create a free account
+→ Create event: "15-Minute PICU Conversation"
+→ Copy the link
 
-*   **What to do:** Open the `candidates/MASTER-CANDIDATE-LIST.md` file.
-*   **Why:** This file contains the first 50 doctoral candidates we have identified. Understanding who they are will provide context for all outreach.
+### Step 2: Send your first outreach message
+Open: `outreach/drafts/dr-poinsette-womens-ministry-dm.md`
+Personalize [Name] and [specific work reference]
+Add your Calendly link
+Send via Instagram DM or Facebook Messenger
 
-### **Step 2: Begin Outreach (30-60 Minutes)**
-
-*   **What to do:** Follow the manual steps outlined in the `outreach/EXECUTION-LOG.md` file.
-*   **Why:** This is the most critical step. It involves joining groups and sending initial messages to high-intent prospects. All message templates are in `outreach/MESSAGE-TEMPLATES.md`.
-
-### **Step 3: Automate with Your AI Assistant (10 Minutes)**
-
-*   **What to do:** Copy the instructions from the `AI-AUTOMATION-INSTRUCTIONS.md` file and give them to your AI assistant (like ChatGPT).
-*   **Why:** This will empower your AI to handle the ongoing, daily, and weekly tasks of finding new leads, freeing up your time to focus on enrollment conversations.
+### Step 3: When they book a call
+Use the discovery call script in:
+`docs/ENROLLMENT-SEQUENCE.md`
+After the call → send acceptance letter →
+`outreach/ACCEPTANCE-LETTER-TEMPLATE.md`
 
 ---
 
-## **Repository Structure**
+## PRICING (never negotiate below this)
 
-*   `/candidates/`: Lists of potential students.
-*   `/outreach/`: Message templates and action logs.
-*   `/docs/`: In-depth research and strategy.
-*   `/campaigns/`: Advertising and email strategies.
-*   `/automation/`: Long-term automated tasks.
-*   `/presentations/`: Webinar slide decks.
-*   `/pdf_exports/`: All key documents in PDF format.
+| | Amount |
+|---|---|
+| Total | **$2,500** |
+| Non-refundable deposit | **$500** |
+| Balance | **$2,000** (due 30 days before ceremony) |
 
-**This system is designed to be a living, breathing lead generation engine. Follow the steps, and you will see results.**
+---
+
+## YOUR TOP 5 CANDIDATES RIGHT NOW
+
+1. **Shuntell Alston** — Indiana — via Lady J
+2. **Faith McKinney** — Indianapolis — LinkedIn direct
+3. **Calandra Gantt** — Georgia — Fall 2026 Atlanta
+4. **Rhonda Thompson** — Georgia — via Lady J
+5. **Shan White** — Georgia — via Lady J
+
+Full candidate list: `candidates/CANDIDATE-ENGINE.md`
+
+---
+
+## FULL GUIDE
+
+`outreach/INSTRUCTIONS-FOR-DR-POINSETTE.md`
+
+---
+*∇θ — 2026-03-29T22:05:51Z*
