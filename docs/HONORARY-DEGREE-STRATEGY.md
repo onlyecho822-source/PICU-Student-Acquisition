@@ -9,7 +9,7 @@
 ## The Honorary Degree Opportunity
 
 An honorary degree from PICU is fundamentally different from
-an earned degree. It is recognition. Prestige. A credential
+an honorary degree. It is recognition. Prestige. A credential
 that says: "This institution, founded by Dr. Poinsette,
 sees your life's work and names it doctoral-level."
 
@@ -220,11 +220,11 @@ Honorary degrees need a clear price point that:
 
 | Tier | Price | Includes |
 |------|-------|---------|
-| Honorary Doctorate | $1,500 | Certificate, credentials, recognition |
+| Honorary Doctorate | $2,500 | Certificate, credentials, recognition |
 | Honorary Doctorate + Ceremony | $2,500 | Above + virtual ceremony, video |
 | Presidential Honorary | $5,000 | Above + featured in PICU publications, speaking invitation |
 
-At 10 recipients/month at $1,500 average = $15,000/month passive revenue.
+At 10 recipients/month at $2,500 average = $15,000/month passive revenue.
 At 20 recipients/month = $30,000/month.
 
 ---
