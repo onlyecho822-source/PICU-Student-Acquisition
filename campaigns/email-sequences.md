@@ -1,5 +1,6 @@
-# Email Nurture Sequences
-## Lead Conversion Campaign Templates
+# PICU HONORARY DOCTORATE — EMAIL SEQUENCES
+**Updated:** 2026-03-29T21:54:52Z
+**Product:** Honorary Doctorate · $2,500 · $500 deposit
 
 ---
 
@@ -30,7 +31,7 @@ As promised, here's your free guide: [Link to Lead Magnet]
 At PICU, we believe that academic excellence and spiritual growth go hand in hand. Our 100% online doctoral programs are designed for busy professionals like you who want to advance their education without putting their life on hold.
 
 Here's what makes PICU different:
-• Affordable tuition starting at $6,400
+• Affordable tuition starting at $2,500
 • Flexible start dates—begin when you're ready
 • 100% online—study from anywhere
 • Accredited by CCACI
@@ -59,15 +60,15 @@ DOCTORAL PROGRAMS:
 
 Doctor of Divinity (D.Div.) in Chaplaincy and Pastoral Care
 Perfect for: Pastors, chaplains, ministry leaders
-Tuition: $6,400
+Tuition: $2,500
 
 Doctor of Philosophy in Christian Entrepreneurship
 Perfect for: Business owners, marketplace ministers
-Tuition: $6,400
+Tuition: $2,500
 
 Doctor of Philosophy in Practical Ministry
 Perfect for: Ministry practitioners, church leaders
-Tuition: $6,400
+Tuition: $2,500
 
 DUAL DEGREE OPTIONS:
 
@@ -126,7 +127,7 @@ Dear [First Name],
 One of the most common questions we receive is about affordability. I want to address that directly.
 
 PICU TUITION:
-• Doctoral programs: $6,400 - $7,500
+• Doctoral programs: $2,500 - $7,500
 • Application fee: $95
 • No hidden fees
 
@@ -139,7 +140,7 @@ PAYMENT OPTIONS:
 ✓ Flexible payment plans
 ✓ Pay-as-you-go options
 ✓ Scholarship opportunities for qualifying students
-✓ No student loans required for most students
+✓ No payment plans required for most students
 
 We believe that financial constraints shouldn't prevent you from achieving your educational goals. That's why we've worked hard to keep our tuition affordable while maintaining academic quality.
 
@@ -174,7 +175,7 @@ Remember:
 • You can start classes at any time
 • Programs are 100% online
 • Completion in 6-36 months
-• Tuition starting at $6,400
+• Tuition starting at $2,500
 
 If you have any questions or concerns holding you back, I'm here to help. Reply to this email or call me directly at 1-877-712-PICU.
 
@@ -238,7 +239,7 @@ Common concerns we hear:
 Our 100% online format lets you study on your schedule. Many students complete their coursework early mornings, evenings, or weekends.
 
 "I'm worried about the cost."
-At $6,400-$7,500, our doctoral programs are among the most affordable accredited options available. We also offer flexible payment plans.
+At $2,500-$7,500, our doctoral programs are among the most affordable accredited options available. We also offer flexible payment plans.
 
 "I'm not sure if I'm qualified."
 If you have a bachelor's or master's degree and a passion for learning, you may be a great fit. Our admissions team can review your background and advise you.
@@ -348,4 +349,4 @@ Poinsette International Christian University
 ---
 
 *Document maintained by Phoenix Global Nexus Intelligence Division*  
-*Last Updated: January 20, 2026*
+*Last Updated: 2026-03-29*
