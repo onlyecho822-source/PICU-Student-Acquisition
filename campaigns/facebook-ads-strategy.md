@@ -108,9 +108,9 @@ CTA: Learn More
 **Ad Creative 2: Carousel**
 ```
 Format: 3-5 cards
-Card 1: Doctor of Ministry - $6,400
+Card 1: Doctor of Ministry - $2,500
 Card 2: PhD Christian Counseling - $7,500
-Card 3: PhD Entrepreneurship - $6,400
+Card 3: PhD Entrepreneurship - $2,500
 Card 4: Start Anytime
 Card 5: Apply Today
 Text: "Which doctoral program is right for you?"
@@ -177,7 +177,7 @@ CTA: Sign Up
 Format: Single image
 Image: Professional graduate or campus imagery
 Headline: Start Your Doctorate Today
-Text: "You've been researching doctoral programs. PICU offers accredited degrees from $6,400, 100% online. Take the next step."
+Text: "You've been researching doctoral programs. PICU offers accredited degrees from $2,500, 100% online. Take the next step."
 CTA: Apply Now
 ```
 
@@ -306,5 +306,5 @@ CTA: Complete Application
 
 ---
 
-*Document maintained by Phoenix Global Nexus Intelligence Division*  
+*Document maintained by PICU Acquisition System*  
 *Last Updated: 2026-03-29*
