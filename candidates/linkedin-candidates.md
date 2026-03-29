@@ -1,6 +1,6 @@
 # LinkedIn Doctoral Candidate Prospects
 ## Search: "seeking doctoral degree ministry"
-### Timestamp: 11:25 Jan 20, 2026
+### Updated: 2026-03-29T21:54:52Z
 
 ---
 
