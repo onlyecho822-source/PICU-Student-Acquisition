@@ -125,6 +125,6 @@
 
 ---
 
-**Phoenix Global Nexus Intelligence Division**
+**PICU Acquisition System**
 **Classification: OPERATIONAL**
 **Updated: 2026-03-29T21:54:52Z**
