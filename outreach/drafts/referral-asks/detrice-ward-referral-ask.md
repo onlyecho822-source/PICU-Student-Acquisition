@@ -1,25 +1,39 @@
 # Referral Ask — Dr. Detrice L. Ward
+**From:** Dr. Lesley Poinsette
+**To:** Dr. Detrice L. Ward
+**Purpose:** Request nominations from existing honoree
+**Created:** 2026-03-29T21:24:57Z
 
-Subject: Dr. Ward — Who should we honor next?
+---
 
-Dr. Detrice,
+Dr. Ward,
 
-The work you have done in HR leadership at one of the nation's
-most historic Black cultural institutions speaks to a lifetime
-of professional and community service.
+Honoring you at our Spring 2026 ceremony was a privilege.
+Your work at DuSable and your commitment to Christian ethics
+in the professional world represents exactly what PICU stands for.
 
-As PICU grows, I want to honor more leaders in your world —
-people in Chicago's Black institutional and faith community
-who have given decades of service without formal recognition.
+I want to ask you something personal:
 
-Who do you know — a pastor, a community leader, a minister —
-who has done doctoral-level Kingdom work and never been honored for it?
+Who in your professional and faith community has done
+the kind of work that deserves this same recognition?
+Someone who has served faithfully — in business, in ministry,
+in community — but has never had someone officially say
+"what you have built matters"?
 
-Your nomination carries weight in that community.
-One name from you opens a door we cannot open alone.
+You know those people. Your network is full of them.
 
-Would you be willing to nominate one or two people?
+If you give me a name, I will take it from there.
+And your name will be on their diploma as the person
+who saw them first.
 
-With deep respect,
+Who comes to mind?
+
+With respect and honor,
 Dr. Lesley Poinsette
 Chancellor, PICU
+
+---
+
+*Send via: Email / Instagram DM / Personal call*
+*Follow up: 7 days if no response*
+*Script code: S26-REF*
