@@ -227,5 +227,5 @@ These sources require formal partnership development.
 
 ---
 
-*Document maintained by Phoenix Global Nexus Intelligence Division*  
+*Document maintained by PICU Acquisition System*  
 *Last Updated: 2026-03-29*
