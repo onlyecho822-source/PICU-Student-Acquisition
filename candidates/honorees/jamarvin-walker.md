@@ -1,22 +1,35 @@
-# Honoree Profile: JaMarvin "JaMarvin" Walker
-**Degree:** Honorary Doctorate of Divinity
-**Class:** Spring 2026
-**Referral Source Code:** S26
+# HONOREE PROFILE: Dr. JaMarvin Walker
+**Degree:** PhD., Christian Ethics & Business Management
+**Location:** Indianapolis, Indiana
+**Network:** Faith Apostolic Church + Upper Room Campus Ministry network
+**Source:** S26 (Spring 2026 Honoree)
 
-## Bio Summary
-JaMarvin has demonstrated exceptional commitment to Kingdom work, serving their community with distinction and grace. Their platform has impacted countless lives, embodying the core values of PICU.
+---
 
-## Network Map
-- Active in local ministry networks
-- Connected to community outreach leaders
-- Strong presence among faith-based entrepreneurs
+## BIO
+Senior Pastor at Faith Apostolic Church. Founded Upper Room Campus Ministry. Phi Eta Sigma Honors Society. Deep Indiana Apostolic/Pentecostal church network.
 
-## Top 3 Referral Candidates
-1. [Network Connection 1 - Ministry Partner]
-2. [Network Connection 2 - Co-laborer in Christ]
-3. [Network Connection 3 - Mentee/Protégé]
+---
 
-## Contact Information
-- **Facebook:** fb.com/jamarvinwalker
-- **Instagram:** @jamarvinwalker
-- **Email:** jamarvin.walker@example.com
+## TOP REFERRAL TARGETS
+- Bivocational pastors in Indiana Apostolic network
+- Campus ministry founders
+- Faith Apostolic Church leadership
+
+---
+
+## CONTACT
+LinkedIn: Pastor Marvin Walker | Faith Apostolic Church
+
+---
+
+## REFERRAL PRIORITY
+HIGH — Apostolic network = deep Indiana pipeline
+
+---
+
+## REFERRAL ASK STATUS
+See: `outreach/drafts/referral-asks/jamarvin-walker-referral-ask.md`
+
+---
+*Generated: 2026-03-29T21:24:19Z · Claude · Strategist Node*
