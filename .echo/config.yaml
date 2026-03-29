@@ -1,46 +1,24 @@
-# .echo/config.yaml
-# Echo Nervous System — Node Identity
-# Canonical: echo-core/spec/ECHO_NERVOUS_SYSTEM_SPEC.md
-
-node:
-  id: "PICU-Student-Acquisition"
-  type: "campaign"
-  status: "active"
-  version: "1.0.0"
-  schema_version: "1.0"
-
+node_id: PICU-Student-Acquisition
+node_type: acquisition_engine
+version: 1.0
+status: active
 capabilities:
-  - student_acquisition
-  - doctoral_outreach
-  - campaign_automation
-
+  - candidate_research
+  - outreach_generation
+  - pipeline_management
+  - honorary_degree_enrollment
 ai_preferences:
-  primary: "claude"
-  secondary: "claude"
-  batch: "deepseek"
-  vision: "gpt4o"
-
+  research: claude
+  search: manus
+  writing: claude
+  pipeline: both
 subjects:
-  subscribe:
-    - "echo.PICU-Student-Acquisition.*.*.task_offer"
-    - "echo.coordinator.all.sync_request"
-    - "echo.coordinator.all.heartbeat"
-  publish:
-    - "echo.PICU-Student-Acquisition.*.*.task_result"
-    - "echo.PICU-Student-Acquisition.*.*.error"
-    - "echo.EMERGING.any.discovery.surface"
-
-health_endpoint: "/echo/health"
-metrics_endpoint: "/echo/metrics"
-
-domain: "education_acquisition"
-mission_alignment: "picu_acquisition"
-activation_condition: "always"
-
-# Nervous system binding
-nervous_system:
-  spine: "echo-coordinator"
-  bus: "nats-jetstream"
-  truth_store: "postgres"
-  artifact_store: "github"
-  lock_service: "redis"
+  primary: echo.PICU.candidate.acquisition
+  secondary: echo.PICU.enrollment.pipeline
+product:
+  name: PICU Honorary Doctorate
+  price: 2500
+  deposit: 500
+  ceremonies:
+    - Spring Indiana
+    - Fall Atlanta 2026
