@@ -1,32 +1,44 @@
 # Referral Ask — Dr. Jacquie (Lady J) Murrell
+**From:** Dr. Lesley Poinsette
+**To:** Dr. Jacquie (Lady J) Murrell
+**Purpose:** Request nominations from existing honoree
+**Created:** 2026-03-29T21:24:57Z
 
-Subject: Lady J — Who should we honor next?
+---
 
-Dr. Jacquie,
+Hi Lady J,
 
-Watching you receive your honorary doctorate was one of the most
-powerful moments of my chancellorship. The room felt it.
-Your 17 years of transformational work — honored. Finally.
+Receiving your Honorary Doctorate was one of the most meaningful
+moments of this entire journey for me. Watching you walk across
+that stage — knowing everything you survived to get there —
+reminded me exactly why I built PICU.
 
-I have one question for you, and I need your honest answer:
+I have a question only you can answer:
 
-Who in your world has done the same level of work — survived,
-rebuilt, and built something for others — and has never been
-formally recognized for it?
+Who in your world has done that same level of work and never
+been formally recognized for it?
 
-I am thinking specifically about the women you co-created
-the Re-Up Experience with. Shuntell. Rhonda. Shan. Shirley.
-Shamala. Celia. Athena. Ranada. Caramel.
+I am thinking about your Re-Up Experience co-founders —
+Shuntell, Rhonda, Shamala, Shirley, Shan, Celia, Athena,
+Ranada, Caramel. Every one of them co-built something with you.
+Every one of them has a story. Every one of them deserves
+to be seen the way PICU saw you.
 
-You know their stories better than anyone.
-If you believe even one of them deserves this recognition,
-I want you to be the one who nominates them.
+If you reached out to even one of them and said
+"I just got mine — you deserve yours too,"
+I believe they would say yes.
 
-Your name on their nomination means everything.
-They will say yes because you asked.
+You would be listed as their Nominating Fellow on their diploma.
+Your legacy tied to theirs. Permanently.
 
-Who comes to mind first?
+Who do you want to honor next?
 
-With love and honor,
+With love and gratitude,
 Dr. Lesley Poinsette
 Chancellor, PICU
+
+---
+
+*Send via: Email / Instagram DM / Personal call*
+*Follow up: 7 days if no response*
+*Script code: S26-REF*
