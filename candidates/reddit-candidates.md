@@ -35,7 +35,7 @@
 
 **Opportunities for PICU:**
 - 100% online format addresses relocation concerns
-- Affordable tuition addresses cost concerns
+- Affordable investment addresses cost concerns
 - Flexible schedule addresses time concerns
 - No language requirements for entry
 
