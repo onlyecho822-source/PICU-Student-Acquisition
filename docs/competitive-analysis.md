@@ -6,7 +6,7 @@
 ---
 
 ## FRAMING CORRECTION NOTE
-The previous version of this file benchmarked PICU against earned doctoral programs (Liberty University, Regent, etc.) at $6,400–$50,000 tuition. That comparison is irrelevant to the honorary recognition product. This file has been rewritten to map the actual competitive landscape for honorary recognition ceremonies.
+The previous version of this file benchmarked PICU against earned doctoral programs (Liberty University, Regent, etc.) at $2,500–$50,000 investment. That comparison is irrelevant to the honorary recognition product. This file has been rewritten to map the actual competitive landscape for honorary recognition ceremonies.
 
 ---
 
@@ -30,7 +30,7 @@ The honoree is not choosing between PICU and Liberty University. The honoree is 
 - Being recognized in a meaningful, permanent, credential-backed way
 - Not being recognized at all
 
-The $2,500 investment is not tuition. It is the cost of a ceremony, a credential, and a permanent record of a life's work.
+The $2,500 investment is not investment. It is the cost of a ceremony, a credential, and a permanent record of a life's work.
 
 ---
 
@@ -57,7 +57,7 @@ The $2,500 investment is not tuition. It is the cost of a ceremony, a credential
 | Weakness | Mitigation |
 |----------|------------|
 | **Lower brand recognition** | Build through Lady J testimonial and ceremony documentation |
-| **No accredited university status** | Reframe: honorary degrees are not earned degrees; the comparison is invalid |
+| **No accredited university status** | Reframe: honorary degrees are not honorary degrees; the comparison is invalid |
 | **Single ceremony per year (initially)** | Scarcity is a feature — limited honoree seats |
 
 ### Opportunities
@@ -75,7 +75,7 @@ The $2,500 investment is not tuition. It is the cost of a ceremony, a credential
 |--------|----------|
 | **"Is this legitimate?" objection** | Clear, confident explanation of what honorary recognition is and is not |
 | **Price sensitivity** | Payment plans built in; $500 deposit filters casual interest |
-| **Candidate confusion with earned degrees** | Messaging must be explicit: this is honorary recognition, not enrollment |
+| **Candidate confusion with honorary degrees** | Messaging must be explicit: this is honorary recognition, not enrollment |
 
 ---
 
