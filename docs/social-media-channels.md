@@ -6,7 +6,7 @@
 ---
 
 ## FRAMING CORRECTION NOTE
-The previous version of this file was built for earned doctoral enrollment acquisition — targeting degree seekers on Reddit, LinkedIn, and TikTok with tuition messaging. That product brief is no longer active. This file has been rewritten for the honorary recognition product. The strategy is fundamentally different: we are not advertising a program. We are finding people who did the work and recognizing them publicly.
+The previous version of this file was built for earned doctoral enrollment acquisition — targeting degree seekers on Reddit, LinkedIn, and TikTok with investment messaging. That product brief is no longer active. This file has been rewritten for the honorary recognition product. The strategy is fundamentally different: we are not advertising a program. We are finding people who did the work and recognizing them publicly.
 
 ---
 
@@ -148,7 +148,7 @@ The sequence is the same across all channels:
 
 ## What NOT to Do
 
-- Do not post about tuition, enrollment, or doctoral programs
+- Do not post about investment, enrollment, or doctoral programs
 - Do not use the word "student" — honorees are not students
 - Do not open any DM with price or product
 - Do not target Reddit doctoral seekers — wrong audience entirely
