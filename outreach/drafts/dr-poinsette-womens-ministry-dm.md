@@ -1,37 +1,48 @@
-# Women's Ministry DM Template — UPDATED v2
-**Updated:** 2026-03-29T21:32:47Z
-**Change:** Added 15-min call CTA. Price not mentioned until call.
+# Women's Ministry DM — UPDATED v2
+**Fix:** Added Lady J proof link + Calendly CTA
 **From:** Dr. Lesley Poinsette
-**To:** Instagram Following (Women in Ministry)
 
 ---
 
-**MESSAGE:**
-
+**Message:**
 Hi [Name] 👋
 
-I've been following your journey and I just have to say —
-I see the incredible work you're doing with [specific work reference].
+I have been following your journey and I need to say —
+what you are doing with [specific work reference] is extraordinary.
 
-As someone who has walked that same path, I know how much
-of your soul goes into serving others.
-You've been doing doctoral-level Kingdom work for years.
+As someone who has walked a similar path, I know how much of
+yourself goes into serving others. You have been doing doctoral-level
+Kingdom work for years, and most people never get formally recognized
+for that.
 
-PICU just honored Lady J for her 17 years of service —
-and looking at what you've built, you carry that same anointing.
+At PICU, we just honored Lady J — Jacquie Murrell — for her
+17 years of transformational work in counseling and mentoring.
+You can see her full announcement here:
+https://www.egoentertainmentnet.com/post/lady-j-to-receive-honorary-doctorate-inspire-future-leaders-through-newly-established-legacy-schol
 
-I would love to tell you more about what that recognition
-looked like for her — and what it could look like for you.
+Looking at what you have built, you carry that same anointing.
+I would love to personally nominate you for our next class.
 
-Can I get 15 minutes with you this week?
-Book a time here: [CALENDLY LINK]
+Can we jump on a quick 15-minute call?
+You can grab a time here: [CALENDLY LINK]
 
 Blessings,
-Dr. Lesley
+Dr. Lesley Poinsette
 Chancellor, PICU
+poinsettechristianuniversity.com
 
 ---
 
-**NOTE:** No price mentioned in the DM.
-Price comes AFTER the call, AFTER the emotional yes.
-The call is the conversion point. The DM just gets them to the call.
+**Instagram post caption (when sharing Lady J's story):**
+"This is what we do at PICU. 👑
+Lady J gave 17 years of her life to counseling, mentoring,
+and serving others across 63 countries.
+We put the hood on her shoulders and said:
+*You did the work. We see it.*
+
+If you know someone whose life's work deserves this recognition —
+or if you ARE that person — my DM is open.
+Or nominate someone here: [LINK]
+
+#PICU #HonoraryDoctorate #KingdomWork #WomenInMinistry
+#YouDidTheWork #LadyJ #BounceBackology #Recognized"
