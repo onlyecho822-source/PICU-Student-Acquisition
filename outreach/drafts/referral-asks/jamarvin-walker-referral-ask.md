@@ -1,25 +1,41 @@
 # Referral Ask — Dr. JaMarvin Walker
+**From:** Dr. Lesley Poinsette
+**To:** Dr. JaMarvin Walker
+**Purpose:** Request nominations from existing honoree
+**Created:** 2026-03-29T21:24:57Z
 
-Subject: Dr. Walker — Who should we honor next?
+---
 
-Dr. JaMarvin,
+Dr. Walker,
 
-Founding Upper Room Campus Ministry while serving as Senior Pastor
-at Faith Apostolic Church — that kind of Kingdom multiplication
-is exactly what PICU was built to recognize.
+Honoring you at Spring 2026 was a Kingdom moment.
+Founding Upper Room Campus Ministry, your years at
+Faith Apostolic — you built something that will outlast you.
 
-Your Apostolic network runs deep in Indiana and beyond.
-You know pastors who have been faithfully serving for 20, 25,
-30 years — bivocational ministers who work a full-time job
-and run a full-time ministry, with no credential to show for it.
+I want to ask you directly:
 
-I want to honor them. And I need you to tell me their names.
+Who in your congregation, your ministry network,
+or your Apostolic community has done that same kind of
+faithful, long-term Kingdom work — and has never been
+formally recognized for it?
 
-Who in your pastoral network deserves this recognition?
-Who has been quietly faithful for decades without being seen?
+Bivocational pastors. Campus ministry leaders.
+Youth workers who have been showing up for 15, 20 years.
+They deserve this.
 
-Your nomination is the introduction that gets them to say yes.
+Your nomination carries weight in that community.
+When you say "Pastor [Name] deserves this honor,"
+they will listen. And their diploma will carry your name
+as their Nominating Fellow.
 
-Grateful for you,
+Who are you thinking of right now?
+
+In Kingdom partnership,
 Dr. Lesley Poinsette
 Chancellor, PICU
+
+---
+
+*Send via: Email / Instagram DM / Personal call*
+*Follow up: 7 days if no response*
+*Script code: S26-REF*
