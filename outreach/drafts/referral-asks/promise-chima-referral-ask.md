@@ -1,24 +1,42 @@
 # Referral Ask — Dr. Promise Chima
+**From:** Dr. Lesley Poinsette
+**To:** Dr. Promise Chima
+**Purpose:** Request nominations from existing honoree
+**Created:** 2026-03-29T21:24:57Z
 
-Subject: Dr. Chima — Who should we honor next?
+---
 
 Dr. Promise,
 
-Your community is one of the most faithfully serving communities
-in the Midwest — and one of the least formally recognized.
+Honoring you at Spring 2026 brought such joy to the ceremony.
+Your commitment to Christian ethics and business leadership
+in your community is a model for so many.
 
-African Christian leaders who have built churches, ministries,
-and businesses in Indiana and the surrounding region have done
-doctoral-level Kingdom work. Most have never been honored for it.
+I want to ask you something:
 
-You are connected to that community in a way I am not.
-Who in your network — a pastor, a ministry leader, a community
-builder — has given years of faithful service and deserves
-to be formally recognized?
+Within your African Christian community here in the Midwest —
+and beyond — who are the leaders, ministers, and community
+builders who have been serving faithfully for years
+without formal recognition?
 
-One nomination from you reaches a community PICU has not
-yet been able to serve. That changes everything.
+Pastors of African congregations. Women's ministry leaders.
+Community organizers. Business leaders who integrate faith.
 
-With deep appreciation,
+Your community is full of people who have done extraordinary
+Kingdom work. Your voice in that community opens doors
+that I cannot open myself.
+
+Who do you want to see honored at our Fall 2026
+Atlanta ceremony — or our next Indiana ceremony?
+
+I am ready to receive their names.
+
+With honor,
 Dr. Lesley Poinsette
 Chancellor, PICU
+
+---
+
+*Send via: Email / Instagram DM / Personal call*
+*Follow up: 7 days if no response*
+*Script code: S26-REF*
