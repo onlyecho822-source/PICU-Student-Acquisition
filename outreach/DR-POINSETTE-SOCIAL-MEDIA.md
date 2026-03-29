@@ -1,7 +1,7 @@
 # Dr. Lesley Poinsette - Social Media Profiles
 
 **Compiled:** Jan 21, 2026
-**Phoenix Global Nexus Intelligence Division**
+**PICU Acquisition System**
 
 ---
 
@@ -84,3 +84,6 @@
 ---
 
 **End of Social Media Report**
+
+---
+*Honorary Doctorate · $2,500 total · $500 non-refundable deposit · Updated: 2026-03-29T22:05:51Z*
