@@ -44,13 +44,13 @@
 ---
 
 ## Slide 4: Our Doctoral Programs at a Glance
-**Heading:** Four Specialized Doctoral Programs Starting at $6,400 Total Tuition
+**Heading:** Four Specialized Doctoral Programs Starting at $2,500 Total Tuition
 
 **Content:**
-- Doctor of Divinity (D.Div.) in Chaplaincy and Pastoral Care — $6,400
-- PhD in Practical Ministry — $6,400
-- PhD in Christian Counseling — $6,400
-- PhD in Christian Entrepreneurship — $6,400
+- Doctor of Divinity (D.Div.) in Chaplaincy and Pastoral Care — $2,500
+- PhD in Practical Ministry — $2,500
+- PhD in Christian Counseling — $2,500
+- PhD in Christian Entrepreneurship — $2,500
 - Dual Degree Programs (MA + PhD) — $7,500
 
 **Visual Direction:** Clean program comparison layout. Use icons or visual elements for each program.
@@ -65,7 +65,7 @@
 - Curriculum focuses on advanced pastoral theology, crisis intervention, and spiritual care
 - Prepares you for leadership roles in healthcare, military, corporate, and church chaplaincy
 - Enhances your ability to minister to individuals and families in their most vulnerable moments
-- Tuition: $6,400 total
+- Tuition: $2,500 total
 
 **Visual Direction:** Imagery of pastoral care, chaplaincy, compassionate ministry.
 
@@ -79,7 +79,7 @@
 - Bridges the gap between theological knowledge and practical application
 - Coursework covers leadership development, church growth, and ministry administration
 - Positions you as a thought leader in your ministry context
-- Tuition: $6,400 total
+- Tuition: $2,500 total
 
 **Visual Direction:** Imagery of church leadership, preaching, ministry in action.
 
@@ -93,7 +93,7 @@
 - Integrates Scripture-based wisdom with proven counseling methodologies
 - Prepares you to serve individuals, couples, and families facing life's challenges
 - Enhances your credibility and effectiveness as a Christian counselor
-- Tuition: $6,400 total
+- Tuition: $2,500 total
 
 **Visual Direction:** Imagery of counseling, compassionate listening, helping relationships.
 
@@ -107,7 +107,7 @@
 - Learn to apply entrepreneurial thinking to ministry challenges
 - Coursework covers strategic planning, financial stewardship, and organizational leadership
 - Equips you to create sustainable ministries and marketplace impact
-- Tuition: $6,400 total
+- Tuition: $2,500 total
 
 **Visual Direction:** Imagery of business and faith integration, entrepreneurial ministry.
 
@@ -133,7 +133,7 @@
 **Content:**
 | Factor | PICU | Traditional Programs |
 |--------|------|---------------------|
-| Tuition | $6,400-$7,500 | $15,000-$50,000+ |
+| Tuition | $2,500-$7,500 | $15,000-$50,000+ |
 | Format | 100% Online | On-campus or Hybrid |
 | Schedule | Start Anytime | Semester-based |
 | Duration | 6-36 months | 3-5 years |
@@ -148,7 +148,7 @@
 
 **Content:**
 - Pastor Michael T., Doctor of Divinity Graduate
-- "For years, I wanted to pursue my doctorate but could not afford the $30,000+ tuition at other schools."
+- "For years, I wanted to pursue my doctorate but could not afford the $30,000+ investment at other schools."
 - "PICU delivered everything I needed. The coursework was rigorous and practical."
 - "I could study while continuing to pastor my church. I graduated debt-free."
 - "My congregation now sees me differently. Doors have opened that were closed before."
