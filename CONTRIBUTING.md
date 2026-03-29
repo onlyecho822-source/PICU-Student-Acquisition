@@ -91,4 +91,4 @@ For questions about contributing, contact the repository maintainers.
 
 ---
 
-*Phoenix Global Nexus Intelligence Division*
+*PICU Acquisition System*
