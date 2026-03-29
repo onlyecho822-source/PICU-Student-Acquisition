@@ -367,5 +367,5 @@ This document provides comprehensive information about online forums and communi
 
 ---
 
-*Document maintained by Phoenix Global Nexus Intelligence Division*  
+*Document maintained by PICU Acquisition System*  
 *Last Updated: 2026-03-29*
