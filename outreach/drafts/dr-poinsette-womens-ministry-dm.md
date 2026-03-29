@@ -24,7 +24,7 @@ Looking at what you have built, you carry that same anointing.
 I would love to personally nominate you for our next class.
 
 Can we jump on a quick 15-minute call?
-You can grab a time here: [CALENDLY LINK]
+You can grab a time here: cal.com/drlesleypoinsette/picu
 
 Blessings,
 Dr. Lesley Poinsette
