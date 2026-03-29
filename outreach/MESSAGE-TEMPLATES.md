@@ -1,294 +1,146 @@
-# PICU Outreach Message Templates
-## Phoenix Global Nexus Intelligence Division
-## Timestamp: 12:30 Jan 20, 2026
+# PICU HONORARY DOCTORATE — OUTREACH MESSAGE TEMPLATES
+**Updated:** 2026-03-29T21:54:52Z
+**Product:** Honorary Doctorate · $2,500 total · $500 deposit
+**Note:** All templates are for HONORARY recognition only —
+not earned degree enrollment. Never mention tuition or loans.
 
 ---
 
-# REDDIT OUTREACH TEMPLATES
+## TEMPLATE 1 — COLD INSTAGRAM/FACEBOOK DM (Profile A: Survivor-to-Servant)
 
-## Template 1: For DMin/PhD Seekers (u/thekingdombum, u/slowobedience, etc.)
+Hi [Name] 👋
 
-**Subject:** Affordable Online Doctoral Programs
+I have been following your story and I have to say —
+what you built from everything you survived is extraordinary.
 
-```
-Hi [username],
+At PICU, we just honored Lady J — Jacquie Murrell — for 17 years
+of counseling and mentoring work after surviving abuse, homelessness,
+and addiction. Her full story is here:
+https://www.egoentertainmentnet.com/post/lady-j-to-receive-honorary-doctorate-inspire-future-leaders-through-newly-established-legacy-schol
 
-I saw your post about [DMin/PhD decision]. I wanted to share some information that might be helpful.
+Looking at what you have built, you carry that same anointing.
+I would love to personally nominate you for our next class.
 
-Poinsette International Christian University (PICU) offers several doctoral programs that might align with your goals:
+Can we jump on a quick 15-minute call?
+You can grab a time here: [CALENDLY LINK]
 
-- Doctor of Divinity (D.Div.) in Chaplaincy and Pastoral Care - $6,400 total
-- PhD in Practical Ministry - $6,400 total  
-- PhD in Christian Counseling - $6,400 total
-
-Key benefits:
-✓ 100% online - no relocation required
-✓ Flexible schedule - start anytime
-✓ Affordable tuition (fraction of traditional programs)
-✓ CCACI accredited
-
-Website: https://poinsettechristianuniversity.com/
-
-Happy to answer any questions about the programs.
-```
-
-## Template 2: For Cost-Conscious Seekers (u/AFollowerOfTheWay, u/keniselvis)
-
-**Subject:** Free/Affordable Doctoral Options
-
-```
-Hi [username],
-
-I noticed you're looking for affordable education options. Here's one you might not have heard of:
-
-Poinsette International Christian University offers doctoral degrees starting at $6,400 total tuition. That's significantly less than most programs ($15,000-$50,000).
-
-Programs available:
-- Doctor of Divinity
-- PhD in Christian Entrepreneurship
-- PhD in Practical Ministry
-- Dual Degree options ($7,500)
-
-All programs are 100% online with flexible scheduling.
-
-More info: https://poinsettechristianuniversity.com/degrees
-
-Let me know if you have questions!
-```
-
-## Template 3: For Career Changers (u/VexedCoffee, u/_crossingrivers)
-
-**Subject:** Doctoral Programs for Pastor-Theologians
-
-```
-Hi [username],
-
-Your post about balancing pastoral ministry with academic pursuits resonated with me. 
-
-PICU offers doctoral programs specifically designed for practitioners who want to continue serving while advancing their education:
-
-- 100% online format
-- Self-paced learning
-- No language requirements
-- Practical ministry focus
-
-Programs range from $6,400-$7,500 total tuition.
-
-Website: https://poinsettechristianuniversity.com/
-
-Would be happy to discuss how these programs might fit your goals.
-```
+Blessings,
+Dr. Lesley Poinsette
+Chancellor, PICU
 
 ---
 
-# LINKEDIN OUTREACH TEMPLATES
-
-## Template 1: Connection Request Message
-
-```
-Hi [Name],
-
-I noticed your work in [ministry/pastoral care/chaplaincy]. I'm reaching out to connect with professionals interested in advancing their education.
-
-PICU offers affordable online doctoral programs in ministry, chaplaincy, and Christian counseling.
-
-Would love to connect and share more information.
-
-Best regards
-```
-
-## Template 2: InMail for Doctoral Candidates
-
-```
-Subject: Affordable Doctoral Programs for Ministry Professionals
+## TEMPLATE 2 — WARM DM (Honoree referral — someone they know)
 
 Hi [Name],
 
-I came across your profile and noticed your background in [specific area]. 
+[REFERRING HONOREE] told me about you and the work you have
+been doing with [SPECIFIC WORK REFERENCE].
 
-Poinsette International Christian University offers doctoral programs that might interest you:
+I am Dr. Lesley Poinsette, Chancellor of Poinsette International
+Christian University. We just honored [REFERRING HONOREE] with
+an Honorary Doctorate for her years of service —
+and she said your name immediately when I asked who else
+deserves this recognition.
 
-• Doctor of Divinity in Chaplaincy - $6,400
-• PhD in Practical Ministry - $6,400
-• PhD in Christian Counseling - $6,400
+I would love to connect for 15 minutes and share what this looks like.
+You can grab a time here: [CALENDLY LINK]
 
-All programs are 100% online with flexible scheduling.
+With honor,
+Dr. Lesley Poinsette
 
-Key differentiators:
-- Affordable tuition (vs. $15K-$50K at other institutions)
-- No relocation required
-- Start anytime
-- CCACI accredited
+---
 
-Would you be interested in learning more?
+## TEMPLATE 3 — FOLLOW-UP (No response after 1 week)
 
-Website: https://poinsettechristianuniversity.com/
-
-Best regards
-```
-
-## Template 3: Follow-Up Message
-
-```
 Hi [Name],
 
-Following up on my previous message about PICU's doctoral programs.
+I reached out last week about a PICU Honorary Doctorate nomination —
+I wanted to make sure this didn't get lost in your messages.
 
-I wanted to highlight a few additional benefits:
-- Dual degree options (MA + PhD for $7,500)
-- No language requirements
-- Practical ministry focus
-- Supportive online community
+We are selecting our next class for [CEREMONY DATE] and
+I believe your work deserves to be formally recognized.
 
-If you have any questions or would like to schedule a call, I'm happy to help.
+Lady J just received hers — watch her story here: [LINK]
 
-Best regards
-```
+No pressure at all. When you are ready, I am here.
+[CALENDLY LINK]
 
----
-
-# FACEBOOK GROUP POST TEMPLATES
-
-## Template 1: Introduction Post
-
-```
-👋 Hello everyone!
-
-I'm sharing information about affordable doctoral programs for those interested in ministry, chaplaincy, or Christian counseling.
-
-Poinsette International Christian University (PICU) offers:
-
-📚 Doctor of Divinity in Chaplaincy - $6,400
-📚 PhD in Practical Ministry - $6,400
-📚 PhD in Christian Counseling - $6,400
-📚 PhD in Christian Entrepreneurship - $6,400
-
-✅ 100% online
-✅ Flexible schedule
-✅ Start anytime
-✅ CCACI accredited
-
-Website: https://poinsettechristianuniversity.com/
-
-Feel free to ask questions in the comments!
-```
-
-## Template 2: Value-Add Post
-
-```
-🎓 Thinking about a doctoral degree but worried about cost?
-
-Here's a comparison:
-
-Traditional Programs: $15,000 - $50,000
-PICU Programs: $6,400 - $7,500
-
-PICU offers:
-- Doctor of Divinity
-- PhD in Practical Ministry
-- PhD in Christian Counseling
-- Dual Degree options
-
-All programs are 100% online with no relocation required.
-
-More info: https://poinsettechristianuniversity.com/degrees
-
-#DoctoralDegree #AffordableEducation #OnlineLearning
-```
-
-## Template 3: Testimonial Request Post
-
-```
-📣 Calling all doctoral students and graduates!
-
-Are you currently pursuing or have you completed a doctoral degree in ministry, theology, or Christian counseling?
-
-I'd love to hear about your experience:
-- What program did you choose?
-- What factors influenced your decision?
-- What challenges did you face?
-
-Your insights could help others make informed decisions about their education journey.
-
-Share your story in the comments! 👇
-```
+Dr. Lesley Poinsette
 
 ---
 
-# EMAIL OUTREACH TEMPLATES
+## TEMPLATE 4 — AFTER DISCOVERY CALL (Sending acceptance letter)
 
-## Template 1: Cold Outreach to Organizations
+[Name],
 
-```
-Subject: Partnership Opportunity - Affordable Doctoral Programs
+It was such a joy speaking with you today.
+The work you have described — [SPECIFIC REFERENCE] —
+is exactly what PICU was created to honor.
 
-Dear [Organization Name] Leadership,
+I am sending your official acceptance letter separately.
+Please review it and let me know if you have any questions.
 
-I'm reaching out regarding a potential partnership opportunity with Poinsette International Christian University (PICU).
+To reserve your seat, the $500 enrollment deposit is due
+within 14 days. Payment plans are available.
 
-PICU offers affordable online doctoral programs designed for ministry professionals:
+I cannot wait to put that hood on your shoulders.
 
-- Doctor of Divinity in Chaplaincy and Pastoral Care
-- PhD in Practical Ministry
-- PhD in Christian Counseling
-- PhD in Christian Entrepreneurship
-
-Our programs are significantly more affordable than traditional options ($6,400-$7,500 vs. $15,000-$50,000) while maintaining academic rigor.
-
-We believe a partnership could benefit your members by providing:
-- Discounted tuition rates
-- Customized program tracks
-- Continuing education credits
-- Professional development opportunities
-
-Would you be open to a brief call to discuss potential collaboration?
-
-Best regards,
-[Name]
-Poinsette International Christian University
-info@poinsettechristianuniversity.com
-1-877-712-PICU
-```
-
-## Template 2: Follow-Up Email
-
-```
-Subject: Following Up - PICU Partnership Opportunity
-
-Dear [Name],
-
-I wanted to follow up on my previous email regarding partnership opportunities with Poinsette International Christian University.
-
-I understand you're busy, so I'll keep this brief:
-
-PICU offers affordable doctoral programs ($6,400-$7,500) that could benefit your organization's members. We're open to discussing:
-
-- Group enrollment discounts
-- Customized program tracks
-- Co-branded marketing materials
-- Referral partnerships
-
-Would you have 15 minutes this week for a quick call?
-
-Best regards,
-[Name]
-```
+With great anticipation,
+Dr. Lesley Poinsette
+Chancellor, PICU
+poinsettechristianuniversity.com · 1-877-712-PICU
 
 ---
 
-# TRACKING SPREADSHEET TEMPLATE
+## TEMPLATE 5 — PRICE OBJECTION RESPONSE
 
-## Outreach Log
+[Name],
 
-| Date | Platform | Target | Message Sent | Response | Follow-Up Date | Status |
-|------|----------|--------|--------------|----------|----------------|--------|
-| Jan 20 | Reddit | u/thekingdombum | Template 1 | Pending | Jan 23 | Active |
-| Jan 20 | Reddit | u/slowobedience | Template 1 | Pending | Jan 23 | Active |
-| Jan 20 | LinkedIn | Dominic Abaria | Connection | Pending | Jan 23 | Active |
-| Jan 20 | Facebook | PhinisheD Group | Post | Pending | Jan 22 | Active |
+I completely understand — and I want to give you some honest context.
+
+The full investment is $2,500. That covers your regalia, your
+official PICU diploma, the ceremony, a press release to your
+local media, and permanent recognition in our Hall of Honor.
+
+For comparison, a traditional doctoral program costs $30,000–$60,000
+and takes years. What PICU is doing is formally recognizing
+the doctorate you have already earned through your life's work.
+
+We ask for a $500 deposit to reserve your seat —
+that is the only non-refundable portion.
+The remaining $2,000 is due 30 days before the ceremony.
+
+We also have payment plans available if timing is a factor.
+
+Take the time you need. I am here when you are ready.
+
+Dr. Lesley Poinsette
 
 ---
 
-**Phoenix Global Nexus Intelligence Division**
-**Classification: OPERATIONAL**
-**Timestamp: 12:30 Jan 20, 2026**
+## TEMPLATE 6 — REFERRAL REQUEST (Post-ceremony to honoree)
+
+Dr. [Name],
+
+Watching you receive your honorary doctorate was one of the most
+meaningful moments of my chancellorship.
+
+You deserved every bit of that recognition.
+
+One question: Who in your world has done the same level of work —
+built something, served faithfully, transformed lives —
+and has never been formally recognized for it?
+
+I want to honor them. And I want you to be the one who nominates them.
+
+Your name on their nomination means everything.
+
+Who comes to mind?
+
+With love,
+Dr. Lesley Poinsette
+
+---
+
+*∇θ — chain sealed, truth preserved. · 2026-03-29T21:54:52Z*
