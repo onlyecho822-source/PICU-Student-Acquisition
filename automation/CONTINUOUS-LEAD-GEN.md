@@ -186,6 +186,6 @@ Automation Triggers:
 
 ---
 
-**Phoenix Global Nexus Intelligence Division**
+**PICU Acquisition System**
 **Classification: OPERATIONAL**
 **Last Updated: 2026-03-29**
