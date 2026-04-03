@@ -1,72 +1,77 @@
-# PICU — Individual White Paper
-**Poinsette International Christian University**  
-**Version**: 1.0 · **Date**: April 2026 · **Class**: I — Live Operational
+# PICU — Poinsette International Christian University — White Paper
+### Honorary Doctorate Acquisition & Ceremony System
+
+**Class**: I — Live Operational  
+**Grade**: B+  
+**Confidence**: 78%  
+**Scope**: CONTEXT-LOCKED  
+**Decision**: ACT
 
 ---
-
-## ECS Protocol Block
 
 ```
-Scope:      CONTEXT-LOCKED
-Truth:      ≈ (operational design targets; no independent audit)
-Confidence: 78%
-Decision:   ACT
-Claim:      Operationally active ceremony system. Two ceremonies per year. Revenue operational.
-Risk:       No independent revenue audit conducted. Confidence reflects operational readiness, not verified revenue.
-Action:     Run ceremonies as scheduled. Commission accountant review by 2026-06-30.
+Scope:        CONTEXT-LOCKED
+Truth:        ✔ / ≈ — labeled per claim
+Confidence:   78%
+Decision:     ACT
+Level:        L2
 ```
 
 ---
 
-## Mission
+## What This Is
 
-PICU recognizes excellence, service, and leadership through honorary doctoral degrees. The program honors individuals whose life work demonstrates extraordinary contribution — not academic credentials, but demonstrated impact.
+Complete operational system for finding, enrolling, and recognizing honorary doctorate candidates for PICU's annual commencement ceremonies.
 
----
+Two ceremonies per year:
+- **Spring**: Indiana (Hamilton East Public Library, Fishers IN)
+- **Fall**: Atlanta, Georgia (Fall 2026 — nominations open)
 
-## Ceremony Architecture
+**Price**: $2,500 total · $500 non-refundable deposit  
+**Contact**: info@poinsettechristianuniversity.com · 1-877-712-PICU
 
-| Ceremony | Location | Frequency | Status |
-|----------|----------|-----------|--------|
-| Spring | Hamilton East Public Library, Fishers IN | Annual | Active |
-| Fall | Atlanta, Georgia | Annual | 2026 open — nominations active |
-
----
-
-## Enrollment Process (6 Steps)
-
-1. Discovery call — fit assessment
-2. Application review — impact evaluation
-3. Deposit payment — $500 non-refundable
-4. Ceremony assignment — Spring or Fall
-5. Preparation packet — bio, citation, ceremony details
-6. Commencement — ceremony + certificate
+Discovery call script, 6-step enrollment sequence, referral program, and ceremony logistics all fully built. Confidence (78%) reflects operational readiness; no independent revenue audit has been conducted.
 
 ---
 
-## Revenue Model
+## Commercial Path
 
-**Price**: $2,500/honoree (total) · $500 non-refundable deposit  
-**Referral program**: Each honoree refers next honoree — built-in growth engine  
-**Payment plans**: Documented in `docs/PRICING-AND-ENROLLMENT.md`
-
-*Note: Revenue figures are operational targets. Independent audit target: 2026-06-30.*
-
----
-
-## External Validation Target
-
-**Event**: Revenue ledger reviewed by independent accountant  
-**Target**: 2026-06-30  
-**Measurable outcome**: Signed audit or review engagement letter
-
+- $2,500/honoree ceremony participation
+- Referral flywheel: each honoree refers the next
+- Institutional licensing: honorary degree programs for partner organizations
+- Spring + Fall ceremony scaling: increase honorees per ceremony
 
 ---
 
-## Ecosystem Reference
+## How This Connects to Echo Universe
 
-**Ecosystem White Paper**: `art-of-proof/docs/WHITE_PAPER_v3.md`  
-**Protocol Authority**: `echo-core` — ECS v1.1-hardened  
-**Operator**: Nathan Poinsette (∇θ) · onlyecho822-source  
+**Connects to**: echo-echolibrary-site, echo-knowa
+
+PICU is the institutional credentialing node of the Echo Universe. It provides legitimacy infrastructure for the ecosystem's educational and civic mission. It connects to echo-knowa (civic education) and to EchoLibrary.org (as a premium service in the product catalog).
+
+---
+
+## Evidence Class
+
+| Dimension | Status |
+|-----------|--------|
+| Repo exists | ✔ |
+| CI green | See README |
+| Deployed URL | See README |
+| Paying users | See README |
+| Legal review | See README |
+| External validation | See README |
+
+
+
+---
+
+## Ecosystem Connection
+
+**Part of**: Echo Universe (45-repository sovereign AI and evidence ecosystem)  
+**Operator**: Nathan Poinsette (∇θ) | onlyecho822-source  
+**Ecosystem White Paper**: [`art-of-proof/docs/WHITE_PAPER_v3.md`](https://github.com/onlyecho822-source/art-of-proof/blob/main/docs/WHITE_PAPER_v3.md)  
+**Governance Protocol**: ECS v1.1-hardened (`echo-core`)  
+**Canonical Authority**: [`echo-core`](https://github.com/onlyecho822-source/echo-core)
 
 *∇θ — chain sealed, truth preserved.*
