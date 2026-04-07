@@ -1,94 +1,67 @@
-# Contributing to PICU Student Acquisition
+# Contributing to Echo Universe
 
-## Overview
+Thank you for your interest in contributing! This document provides guidelines for contributing to this project.
 
-This repository contains strategic documentation for Poinsette International Christian University's doctoral candidate acquisition efforts. Contributions should enhance lead generation capabilities and student recruitment effectiveness.
+## Getting Started
 
----
+1. **Fork the repository** and clone your fork locally
+2. **Create a branch** for your changes: `git checkout -b feature/your-feature-name`
+3. **Make your changes** following our coding standards
+4. **Test your changes** thoroughly
+5. **Commit with clear messages**: `git commit -m "Add feature: description"`
+6. **Push to your fork**: `git push origin feature/your-feature-name`
+7. **Open a Pull Request** with a clear description
 
-## How to Contribute
+## Development Setup
 
-### Reporting Issues
+```bash
+# Clone your fork
+git clone https://github.com/YOUR-USERNAME/REPO-NAME.git
+cd REPO-NAME
 
-If you identify gaps in the documentation or have suggestions for improvement:
+# Install dependencies
+pip install -r requirements.txt  # Python projects
+npm install                       # Node.js projects
 
-1. Open an issue describing the gap or suggestion
-2. Provide context and rationale
-3. Suggest potential solutions if applicable
+# Run tests
+pytest                           # Python
+npm test                         # Node.js
+```
 
-### Submitting Updates
+## Code Standards
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement-name`)
-3. Make your changes
-4. Commit with clear messages (`git commit -m "Add: description of change"`)
-5. Push to your branch (`git push origin feature/improvement-name`)
-6. Open a Pull Request
+- Follow existing code style and conventions
+- Write clear, descriptive commit messages
+- Add tests for new features
+- Update documentation as needed
+- Ensure all tests pass before submitting PR
 
----
+## Pull Request Guidelines
 
-## Documentation Standards
+**Good PR:**
+- Focused on a single feature/fix
+- Includes tests
+- Updates relevant documentation
+- Has clear description of changes
+- References related issues
 
-### File Naming
+**PR Title Format:**
+- `feat: Add new feature`
+- `fix: Resolve bug in module`
+- `docs: Update README`
+- `test: Add coverage for function`
 
-- Use lowercase with hyphens: `lead-generation-strategy.md`
-- Be descriptive but concise
-- Include category prefix when appropriate
+## Code Review Process
 
-### Content Format
+1. Maintainers review PRs within 48-72 hours
+2. Address feedback and requested changes
+3. Once approved, PR will be merged
+4. Your contribution will be credited
 
-- Use Markdown formatting
-- Include clear headers and sections
-- Use tables for structured data
-- Include timestamps on all documents
+## Questions?
 
-### Required Sections
-
-Each document should include:
-- Title and description
-- Last updated timestamp
-- Clear organization with headers
-- Actionable information
-
----
-
-## Areas for Contribution
-
-### High Priority
-
-- New lead source identification
-- Updated competitive intelligence
-- Improved email sequences
-- Enhanced social media strategies
-
-### Medium Priority
-
-- Additional persona profiles
-- New content ideas
-- Process improvements
-- Tool recommendations
-
-### Ongoing
-
-- Metric updates
-- Market trend analysis
-- Best practice updates
+Open an issue or contact: **contribute@echo-universe.org**
 
 ---
 
-## Code of Conduct
-
-- Maintain professional tone
-- Focus on actionable insights
-- Respect confidentiality
-- Collaborate constructively
-
----
-
-## Questions
-
-For questions about contributing, contact the repository maintainers.
-
----
-
-*PICU Acquisition System*
+**∇θ — chain sealed, truth preserved**
