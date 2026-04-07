@@ -1,4 +1,14 @@
 # PICU — Poinsette International Christian University
+
+## 📊 Repository Analytics
+
+[![RepoBeats](https://repobeats.axiom.co/api/embed/1138706931.svg)](https://github.com/onlyecho822-source/PICU-Student-Acquisition/pulse)
+
+[![Star History](https://api.star-history.com/svg?repos=onlyecho822-source/PICU-Student-Acquisition&type=Date)](https://star-history.com/#onlyecho822-source/PICU-Student-Acquisition&Date)
+
+[![OSS Insight](https://img.shields.io/badge/OSS%20Insight-View%20Analytics-blue)](https://ossinsight.io/analyze/onlyecho822-source/PICU-Student-Acquisition)
+
+
 ### Honorary Doctorate Acquisition & Ceremony System
 
 **Class**: I — Live Operational  
