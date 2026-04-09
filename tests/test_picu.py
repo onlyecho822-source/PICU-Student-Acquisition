@@ -1,44 +1,72 @@
-"""Tests for PICU-Student-Acquisition."""
+"""Tests for PICU-Student-Acquisition — PIOutreachEngine funnel management."""
 import pytest
+try:
+    from picu.outreach import PIOutreachEngine, Prospect, ProspectStatus
+    HAS = True
+except ImportError:
+    HAS = False
 
-def test_campaign_structure():
-    campaign = {"name": "Spring 2024", "target": 50, "enrolled": 0, "status": "active"}
-    assert campaign["status"] == "active"
+def test_prospect_creates():
+    p = Prospect("pr1","Alice","alice@example.com","Theology")
+    assert p.name == "Alice"
 
-def test_candidate_profile():
-    candidate = {"name": "Student A", "country": "DR", "program": "theology", "status": "prospect"}
-    assert candidate["country"] == "DR"
+def test_prospect_default_status():
+    p = Prospect("pr1","A","a@b.com","Program")
+    assert p.status == ProspectStatus.NEW
 
-def test_outreach_channels():
-    channels = ["email", "whatsapp", "social_media", "referral", "direct"]
-    assert len(channels) >= 4
+def test_engine_add_prospect():
+    if not HAS: pytest.skip()
+    e = PIOutreachEngine()
+    p = e.add_prospect("pr1","Alice","a@test.com","Theology")
+    assert e.get("pr1") is not None
 
-def test_funnel_stages():
-    stages = ["awareness", "interest", "consideration", "intent", "enrollment"]
-    assert stages[-1] == "enrollment"
+def test_engine_advance_status():
+    if not HAS: pytest.skip()
+    e = PIOutreachEngine()
+    e.add_prospect("pr1","A","a@t.com","Prog")
+    e.advance("pr1", ProspectStatus.INTERESTED)
+    assert e.get("pr1").status == ProspectStatus.INTERESTED
 
-def test_dr_lesley_automation():
-    tasks = ["email_sequence", "follow_up", "document_collection", "interview_schedule"]
-    assert "email_sequence" in tasks
+def test_engine_add_note():
+    if not HAS: pytest.skip()
+    e = PIOutreachEngine()
+    e.add_prospect("pr1","A","a@t.com","Prog")
+    e.add_note("pr1","Called on Monday, interested")
+    assert len(e.get("pr1").notes) == 1
+
+def test_by_status():
+    if not HAS: pytest.skip()
+    e = PIOutreachEngine()
+    e.add_prospect("pr1","A","a@t.com","P1")
+    e.add_prospect("pr2","B","b@t.com","P2")
+    e.advance("pr1", ProspectStatus.ENROLLED)
+    enrolled = e.by_status(ProspectStatus.ENROLLED)
+    assert len(enrolled) == 1
+
+def test_by_program():
+    if not HAS: pytest.skip()
+    e = PIOutreachEngine()
+    e.add_prospect("pr1","A","a@t.com","Theology")
+    e.add_prospect("pr2","B","b@t.com","Business")
+    assert len(e.by_program("Theology")) == 1
 
 def test_conversion_rate():
-    prospects = 100
-    enrolled = 12
-    rate = enrolled / prospects
-    assert 0.05 < rate < 0.30
+    if not HAS: pytest.skip()
+    e = PIOutreachEngine()
+    e.add_prospect("pr1","A","a@t.com","P")
+    e.add_prospect("pr2","B","b@t.com","P")
+    e.advance("pr1", ProspectStatus.ENROLLED)
+    assert abs(e.conversion_rate() - 0.5) < 0.01
 
-def test_program_types():
-    programs = ["theology", "ministry", "christian_education", "missions"]
-    assert "ministry" in programs
+def test_funnel_report():
+    if not HAS: pytest.skip()
+    e = PIOutreachEngine()
+    e.add_prospect("pr1","A","a@t.com","P")
+    report = e.funnel_report()
+    assert isinstance(report, dict)
 
-def test_data_fields():
-    fields = ["first_name","last_name","email","phone","country","program","source"]
-    assert len(fields) == 7
-
-def test_pdf_exports():
-    export_types = ["application_form", "acceptance_letter", "enrollment_packet"]
-    assert "application_form" in export_types
-
-def test_health_json():
-    health = {"status": "active", "project": "PICU-Student-Acquisition"}
-    assert health["status"] == "active"
+def test_dashboard():
+    if not HAS: pytest.skip()
+    e = PIOutreachEngine()
+    d = e.dashboard()
+    assert "university" in d and "conversion_rate" in d
