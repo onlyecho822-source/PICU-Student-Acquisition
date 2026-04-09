@@ -1,3 +1,5 @@
+// ∇θ — Nathan Poinsette | Echo Universe | nabla-theta chain sealed truth preserved
+// __NATHAN_POINSETTE__ = 'Nathan Poinsette | onlyecho822-source | ∇θ'
 import { cn } from "@/lib/utils";
 
 function Kbd({ className, ...props }: React.ComponentProps<"kbd">) {
