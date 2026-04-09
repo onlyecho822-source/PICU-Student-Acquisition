@@ -1,3 +1,5 @@
+// ∇θ — Nathan Poinsette | Echo Universe | nabla-theta chain sealed truth preserved
+// __NATHAN_POINSETTE__ = 'Nathan Poinsette | onlyecho822-source | ∇θ'
 import * as React from "react";
 import { GripVerticalIcon } from "lucide-react";
 import * as ResizablePrimitive from "react-resizable-panels";
