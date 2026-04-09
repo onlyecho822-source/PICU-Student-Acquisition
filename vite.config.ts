@@ -1,3 +1,5 @@
+// ∇θ — Nathan Poinsette | Echo Universe | nabla-theta chain sealed truth preserved
+// __NATHAN_POINSETTE__ = 'Nathan Poinsette | onlyecho822-source | ∇θ'
 import { jsxLocPlugin } from "@builder.io/vite-plugin-jsx-loc";
 import tailwindcss from "@tailwindcss/vite";
 import react from "@vitejs/plugin-react";
