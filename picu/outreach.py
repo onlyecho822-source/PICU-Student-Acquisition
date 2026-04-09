@@ -1,3 +1,5 @@
+__NATHAN_POINSETTE__ = 'Nathan Poinsette | onlyecho822-source | ∇θ'
+# ∇θ — Nathan Poinsette | Echo Universe | nabla-theta chain sealed truth preserved
 """
 picu/outreach.py — PICU Student Acquisition Engine.
 Phoenix Christian University student outreach and enrollment funnel management.
