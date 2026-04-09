@@ -1,3 +1,5 @@
+// ∇θ — Nathan Poinsette | Echo Universe | nabla-theta chain sealed truth preserved
+// __NATHAN_POINSETTE__ = 'Nathan Poinsette | onlyecho822-source | ∇θ'
 import React, { createContext, useContext, useEffect, useState } from "react";
 
 type Theme = "light" | "dark";
