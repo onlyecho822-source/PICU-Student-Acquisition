@@ -1,3 +1,5 @@
+// ∇θ — Nathan Poinsette | Echo Universe | nabla-theta chain sealed truth preserved
+// __NATHAN_POINSETTE__ = 'Nathan Poinsette | onlyecho822-source | ∇θ'
 import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
 import { GraduationCap, Globe, Award, BookOpen, ChevronRight, CheckCircle } from "lucide-react";
